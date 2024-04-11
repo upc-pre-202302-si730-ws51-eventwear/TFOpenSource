@@ -1133,7 +1133,20 @@ Registra la autoría y los derechos de autor del contenido de la página web.
 
 
 ####     2.4. Searching Systems.
-....
+
+*Filtro de fecha:* los usuarios pueden buscar registros según la fecha en que se registraron.
+
+*Filtro de fase:* los usuarios pueden buscar registros según la fase en la que se encuentran.
+
+*Filtro de autor:* los usuarios pueden buscar registros según el autor del registro.
+
+*Filtro de historial general:* los usuarios pueden buscar registros según varios criterios, como fecha, fase y autor.
+
+*Búsqueda de compras:* El sistema de búsqueda también estará presente en la visualización de sus compras.
+
+Al implementar estos sistemas de búsqueda, los usuarios podrán encontrar fácil y rápidamente la información que necesitan dentro de la aplicación "Event Wear". Esto les ayudará a gestionar y realizar un seguimiento eficaz de sus contrataciones y a tomar decisiones informadas basadas en los datos proporcionados.
+
+
 ####     2.5. Navigation Systems.
 ....
 ### 3. **Landing Page UI Design.**
