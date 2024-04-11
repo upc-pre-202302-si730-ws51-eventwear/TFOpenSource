@@ -971,11 +971,85 @@ Podemos promover activamente la plataforma a través de campañas de concienciac
 
 
 ## Capítulo IV: Product Design
+
 ### 1. **Style Guidelines.**
+
+Tener una guía de estilo es crucial a la hora de desarrollar un proyecto, ya que ayuda a establecer el flujo de trabajo del equipo. Nuestro proyecto se basará en una biblioteca de componentes y una guía de estilo, para evitar problemas al diseñar el proyecto. Por lo tanto, nuestro equipo establecerá una guía de estilo general, una guía de estilo web y una guía de estilo móvil.
+
 ####     1.1. General Style Guidelines.
-....
+
+#### **Misión:**
+
+Transformar la manera en que las personas acceden y disfrutan de la moda sostenible para eventos especiales mediante una plataforma que facilita el intercambio de prendas únicas y de calidad, promoviendo así la reutilización y reduciendo el impacto ambiental del fast fashion.
+
+#### **Visión:**
+
+En los próximos años, EventWea raspira a convertirse en el referente líder en el mercado de moda sostenible para eventos especiales, reconocida por su compromiso con la innovación, la comunidad y la responsabilidad social. Nos esforzamos por inspirar un cambio significativo en la industria de la moda, fomentando una cultura de consumo consciente y sostenible.
+
+#### **Nombre de la marca:**
+
+El nombre "EventWear" refleja nuestra dedicación a impulsar un cambio positivo en la industria de la moda. "Moda" representa nuestro enfoque en la moda sostenible para eventos especiales, mientras que "Cambio" simboliza la transformación hacia un modelo de consumo más consciente y responsable. Juntos, estos términos encapsulan nuestra misión y visión de promover un cambio significativo en la forma en que las personas se visten para eventos especiales.
+
+
 ####     1.2. Web Style Guidelines.
-....
+
+##### *Tarjetas:*
+
+##### Uso de Tarjetas para Servicios Principales:
+
+Implementaremos tarjetas con un diseño elegante para resaltar nuestros servicios principales, tales como:
+
+##### *Título:*
+Preguntas Frecuentes de Moda Sostenible
+
+#### *Subtítulo:*
+Respuestas a tus dudas más comunes
+
+#### *Párrafo descriptivo:*
+Explora nuestras respuestas detalladas a las preguntas más frecuentes sobre moda sostenible, desde cómo cuidar las prendas hasta cómo encontrar el estilo adecuado para ti.
+
+#### *Hipervínculo:* 
+Más información
+
+#### *Imágenes:*
+
+#### *Botones:*
+
+Utilizaremos botones inferiores por sección para acciones específicas como:
+
+#### *Botón:*
+Explorar Ejercicios de Estilo
+
+#### *Color:*
+Verde para promover el crecimiento personal
+
+#### *Botón:*
+Unirse a Sesiones de Intercambio de Ropa
+
+#### *Color:*
+Verde para fomentar la participación comunitaria
+
+#### *Tablas:*
+Presentaremos datos clave utilizando tablas con diseño verde y blanco, como:
+
+#### *Tabla:*
+Lista de Marcas Sostenibles Populares
+
+#### *Descripción:*
+Descubre marcas comprometidas con la sostenibilidad y la ética en la moda.
+
+#### *Pantallas Emergentes:*
+Mostraremos pantallas emergentes para confirmar acciones importantes, como:
+
+#### *Pantalla de Confirmación:* 
+Reservar una Prenda Única para tu Próximo Evento
+
+#### *Descripción:*
+Confirma tu elección consciente de elegir una prenda sostenible para tu evento especial.
+
+Estas características y elementos visuales trabajarán juntos para crear una experiencia de usuario intuitiva y atractiva en nuestra plataforma EventWear, impulsando así la adopción de la moda sostenible y consciente.
+
+
 ### 2. **Information Architecture.**
 ####     2.1. Organization Systems.
 ....
