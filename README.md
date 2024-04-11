@@ -1192,7 +1192,7 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 <br>
 ![image](Imagenes/WireFrames/chatvendedor-5.jpg)
 <br>
-![image](Imagenes/WireFrames/ordenes.jpg)
+![image](Imagenes/WireFrames/Ordenes.jpg)
 <br>
 ![image](Imagenes/WireFrames/carrito.jpg)
 <br>
