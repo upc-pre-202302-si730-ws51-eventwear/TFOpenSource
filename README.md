@@ -1084,7 +1084,46 @@ Para crear un sistema de etiquetado eficiente para "Event Wear", se debe tener e
 
 
 ####     2.3. SEO Tags and Meta Tags.
-....
+
+
+Para Event Wear, la estrategia de SEO y las metaetiquetas deben enfocarse en destacar la sostenibilidad, la moda consciente, y la accesibilidad de prendas de alta calidad para eventos especiales a través del alquiler. Esto no solo ayudará a mejorar el posicionamiento en motores de búsqueda sino que también atraerá a usuarios conscientes y en busca de opciones sostenibles.
+
+Las metaetiquetas que se usarán son:
+
+#### **Título:**
+
+Esta etiqueta es crucial para la identificación del contenido de la página por los motores de búsqueda y aparecerá en las páginas de resultados de los motores de búsqueda (SERP).
+
+-<title>Alquiler de Moda para Eventos Especiales | Event Wear</title>
+
+Codificación de caracteres:
+
+Esta etiqueta asegura la correcta visualización de los caracteres especiales en la página.
+
+<meta charset="utf-8">
+
+
+Descripción:
+
+Proporciona un resumen conciso del sitio web, crucial para atraer visitantes desde los resultados de búsqueda.
+
+<meta name="description" content="Event Wear ofrece un servicio exclusivo de alquiler de moda sostenible y de alta calidad para tus eventos especiales. Descubre una nueva forma de brillar en cada ocasión.">
+
+Palabras clave:
+
+Incluye palabras clave relevantes que ayudan a mejorar el posicionamiento del sitio en los resultados de búsqueda relacionados.
+
+<meta name="keywords" content="alquiler de moda, moda sostenible, vestidos de gala, trajes de evento, moda de lujo, alquiler de vestidos, eventos especiales, moda consciente">
+
+Autor y Derechos de Autor:
+
+Registra la autoría y los derechos de autor del contenido de la página web.
+
+<meta name="author" content="Event Wear Team">
+<meta name="copyright" content="Copyright © 2024 Event Wear">
+
+
+
 ####     2.4. Searching Systems.
 ....
 ####     2.5. Navigation Systems.
