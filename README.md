@@ -189,7 +189,12 @@ Segmento Objetivo 2: María Fernández
 ![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/blob/cf9dfed76bc1ddbe1fa17e3eea427e14f9645b86/Imagenes/User-Journey-Map-Maria.png?raw=true)
 
 ####     3.4. Empathy Mapping.
-....
+Segmento Objetivo 1: Barbara Sanchez
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/blob/main/Imagenes/Empathy-Map-Barbara.jpg?raw=true)
+
+Segmento Objetivo 2: María Fernández
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/blob/main/Imagenes/Empathy%20Map-Maria.jpg?raw=true)
+
 ####     3.5. As-is Scenario Mapping.
 ....
 
