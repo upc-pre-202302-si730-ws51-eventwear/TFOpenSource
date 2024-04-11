@@ -139,7 +139,15 @@ width=50%"/>
 Nuestro propósito es empoderar a los usuarios para que disfruten de la moda de manera consciente, fomentando la comunidad, la creatividad y la responsabilidad social a través de la moda sostenible. Event Wear no solo ofrece una solución práctica y elegante para eventos especiales, sino que también contribuye positivamente al medio ambiente y a la sociedad al cambiar la forma en que consumimos moda.
 
 ####     1.2. Perfiles de los integrantes del equipo
-....
+
+| Nombre                           | Descripción                                                                                                                                   |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Christopher Sebastian More Rondon (U202212199) | Estudiante de quinto ciclo de Ingeniería de Software. Creativo e ingenioso para resolver problemas creando programas. Cumplidor y detallista. |
+| Adriano Sebastian Cruz Palomino (U202210697)   | Estudiante de quinto ciclo de Ingeniería de Software en la UPC. Curioso, responsable y comprometido con sus estudios.                              |
+| Jair Castillo (U202211390)                     | Estudiante de quinto ciclo de Ingeniería de Software en la UPC. Habilidades intermedias en C++. Atento y adaptable a diversos desafíos.          |
+| Tony Alexander Ramos Najar                    | Estudiante de séptimo ciclo de Ingeniería de Software. Hábil en Python, Javascript y aprendiendo Angular. Responsable y con ganas de aprender. |
+
+
 ### 2. **Solution Profile.**
 ####     2.1. Antecedentes y Problemática
 ....
