@@ -425,7 +425,22 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 
 
 ####     2.3. Análisis de entrevistas.
-....
+
+#### Análisis Entrevista 1:
+
+El entrevistado prefiere comprar en tiendas grandes, pero a menudo tiene dificultades para encontrar ropa de buena calidad y del color que desea. No asiste a eventos sociales con frecuencia y solo está interesado en alquilar ropa para ocasiones especiales. Esto sugiere que valora la calidad y el aspecto de su ropa, pero prefiere no invertir en prendas costosas que solo usará ocasionalmente. Por lo tanto, podría beneficiarse de la oferta de prendas de alta calidad de StyleShare y del alquiler de ropa para eventos especiales ofrecido por Change4All.
+
+
+#### Análisis Entrevista 2:
+
+En la entrevista, Bárbara Quezada mencionó su participación en el alquiler de ropa, resaltando la relevancia de la preparación y la confianza en uno mismo. Destacó que al enfrentarse a diferentes compras, tuvo la oportunidad de adquirir y perfeccionar sus habilidades de comunicación. Asimismo, manifestó su gratitud por las plataformas que proporcionan servicios de alquiler de ropa, ya que las considera beneficiosas para familiarizarse con el proceso y facilitar la búsqueda de prendas.
+
+
+#### Análisis Entrevista 3:
+
+Nicolas prefiere buscar sus prendas en marcas que ya conoce y ha probado. Aunque rara vez no ha podido encontrar la prenda deseada para un conjunto específico, en esos casos ha tenido que cambiar por completo su idea original de vestimenta. Tiene un gran interés en el mundo de la moda y la vestimenta desde hace años, y considera que su estilo es simple y poco extravagante. Ha mantenido su forma de vestir durante más de diez años sin cambios significativos.
+
+
 ### 3. **Needfinding.**
 ####     3.1. User Personas.
 
