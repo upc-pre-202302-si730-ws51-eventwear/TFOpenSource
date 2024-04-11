@@ -549,10 +549,9 @@ Entonces encuentra un correo electrónico de verificación con un enlace para co
 | Epic ID       | EP01   |
 | Título        | Configuración de perfil inicial |
 
-### Descripción
-Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.
+| Descripción | Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.|
 
-### Criterios de aceptación
+| Criterios de aceptación |
 
 #### Escenario 1: Configuración de perfil inicial
 Dado que el usuario se encuentra en la pantalla principal
