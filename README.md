@@ -149,6 +149,40 @@ Nuestro propósito es empoderar a los usuarios para que disfruten de la moda de 
 
 
 ### 2. **Solution Profile.**
+
+## - What (Qué):
+La relación del problema con las personas radica en la presión social y cultural para lucir nuevas prendas en eventos especiales. Muchas personas se sienten obligadas a comprar ropa nueva para cada ocasión, lo que contribuye al ciclo de consumo insostenible del fast fashion y al desperdicio de recursos naturales. Esta dinámica genera tanto una carga económica para los individuos como un impacto ambiental negativo debido a la producción excesiva de prendas y el descarte rápido de las mismas.
+
+## - When (Cuándo):
+El problema surge de manera recurrente durante todo el año, con mayor intensidad en períodos que coinciden con temporadas de eventos especiales como bodas, graduaciones, galas y festivales. En estos momentos, la presión para encontrar y lucir nuevas prendas aumenta, lo que impulsa a las personas a recurrir al consumo de moda rápida y contribuye al problema de desperdicio textil y contaminación ambiental.
+
+## -Where (Dónde):
+El cliente está presente en una variedad de ubicaciones cuando utiliza el producto. Esto puede incluir su hogar mientras se prepara para un evento especial, en tiendas físicas o en línea buscando prendas para alquilar, así como en el evento mismo donde lucirá la prenda alquilada. Además, el cliente puede encontrarse en entornos sociales, como reuniones familiares, bodas, fiestas o galas, donde la presión para lucir bien y estar a la moda es especialmente relevante. La flexibilidad de la plataforma permite que los clientes accedan al servicio desde cualquier lugar con conexión a internet, lo que amplía su alcance y conveniencia.
+
+## -Who (Quién):
+Quienes están involucrados en este contexto son diversos. Por un lado, están los usuarios que desean alquilar prendas para eventos especiales, que pueden ser personas de diferentes grupos demográficos y contextos sociales, desde jóvenes que asisten a bailes de graduación hasta adultos que participan en eventos de gala. Además, están los arrendadores, que son aquellos que ponen a disposición sus prendas para alquilar. Estos pueden ser tanto individuos particulares que buscan sacar provecho de prendas que ya no utilizan como también pueden ser pequeñas empresas o tiendas de moda que deseen diversificar sus ingresos. Ambos grupos de personas, tanto arrendatarios como arrendadores, forman parte del ecosistema de la plataforma, contribuyendo a su funcionamiento y éxito.
+
+## -Why (Por qué):
+La causa principal del problema radica en la cultura de consumo impulsada por la industria del fast fashion. Esta industria promueve un modelo de negocio basado en la producción masiva de prendas de vestir a bajo costo y de tendencia rápida, lo que incita a los consumidores a comprar constantemente nuevas prendas para eventos especiales en lugar de reutilizar o alquilar. La presión social y cultural para lucir siempre a la última moda en eventos especiales refuerza este ciclo de consumo desmedido, exacerbando el problema del desperdicio textil y contribuyendo al deterioro del medio ambiente. En resumen, la causa fundamental del problema es la combinación de la producción excesiva de prendas y la mentalidad de usar y desechar promovida por la industria del fast fashion.
+
+## - How (Cómo):
+
+## 1. ¿En qué condiciones los clientes usan nuestro producto?
+   Los clientes usarán nuestro producto en condiciones diversas, pero principalmente en eventos especiales como bodas, graduaciones, galas u otras ocasiones formales. Las prendas alquiladas deberán estar en condiciones óptimas para su uso, limpias y en buen estado. Además, es importante que las prendas se ajusten adecuadamente a las necesidades y preferencias del cliente.
+
+## 2. ¿Cómo nos conocieron los compradores?
+   Los compradores pueden conocernos a través de una variedad de canales de marketing y promoción. Esto puede incluir publicidad en línea, campañas en redes sociales, recomendaciones de boca en boca, colaboraciones con influencers de moda, presencia en eventos y ferias locales, así como estrategias de SEO y marketing de contenido. La visibilidad y reputación de la plataforma se construirán en base a la calidad del servicio, la variedad de prendas disponibles y la satisfacción del cliente.
+
+## 3. ¿Cómo prefieren los lectores acceder a nuestro contenido?
+   Los clientes preferirán acceder al contenido de nuestra plataforma a través de una experiencia en línea intuitiva y fácil de usar. Esto implica tener un sitio web bien diseñado y optimizado para dispositivos móviles, donde los usuarios puedan navegar por el catálogo de prendas, leer reseñas y valoraciones, realizar reservas y pagos de manera segura, y comunicarse con el equipo de soporte si es necesario. La disponibilidad de una aplicación móvil también puede ser una opción conveniente para algunos usuarios.
+
+## 4. ¿Qué llevó a la persona a esta situación?
+   Las personas se encuentran en esta situación debido a la presión social y cultural para lucir bien en eventos especiales, así como a la influencia de la industria del fast fashion que promueve un consumo desmedido de prendas de vestir. Además, factores individuales como el deseo de variedad en el guardarropa, la falta de conciencia sobre los impactos ambientales del fast fashion y la conveniencia de comprar en lugar de alquilar también pueden haber contribuido a esta situación.
+
+## - How much (Cuánto):
+   La disposición de los clientes a pagar por el servicio dependerá de varios factores, como la exclusividad y la calidad de las prendas ofrecidas, la duración del alquiler, la marca y el prestigio de la plataforma, así como la percepción de valor y conveniencia. Es probable que los clientes estén dispuestos a pagar un precio razonable que refleje la calidad y la conveniencia del servicio, pero también valorarán la accesibilidad y la rentabilidad en comparación con la compra de prendas nuevas. Se requerirán investigaciones de mercado y pruebas de precios para determinar el punto óptimo que maximice los ingresos mientras se mantiene atractiva la propuesta de valor para los clientes.
+
+
 ####     2.1. Antecedentes y Problemática
 ....
 ####     2.2. Lean UX Process
