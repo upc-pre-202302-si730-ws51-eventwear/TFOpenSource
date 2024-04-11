@@ -1169,7 +1169,7 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ####     4.1.2. *Web*
 
 ![image](Imagenes/WireFrames/iniciasesion.jpg)
-<br>
+
 ![image](Imagenes/WireFrames/crearcuenta.jpg)
     
 
