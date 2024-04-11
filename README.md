@@ -1168,10 +1168,13 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 
 ####     4.1.2. *Web*
 
-![image](Imagenes/WireFrames/iniciasesion.jpg)
-
+![image](Imagenes/WireFrames/inciasesion.jpg)
+<br>
 ![image](Imagenes/WireFrames/crearcuenta.jpg)
-    
+<br>
+![image](Imagenes/WireFrames/pagprincipal.jpg)    
+<br>
+![image](Imagenes/WireFrames/pPrin.jpg)
 
 ####     4.2. Web Applications Wireflow Diagrams.
 ....
