@@ -180,6 +180,7 @@ Segmento Objetivo 2: María Fernández
 
 ####     3.2. User Task Matrix.
 
+BARBARA SANCHEZ
 | Actividades                                                                                           | Frecuencia        | Importancia |
 |-------------------------------------------------------------------------------------------------------|-------------------|-------------|
 | Almacenar archivos o documentos relacionados con sus clases en servicios de almacenamiento en la nube. | Con Frecuencia    | Alta        |
