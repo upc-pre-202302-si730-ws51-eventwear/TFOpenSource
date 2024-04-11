@@ -276,61 +276,10 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 
 #####         **2.2.4.Lean UX Canvas.**
 
-| Lean UX Canvas                   | Título : Event Wear                                              |    Fecha: 28/03/2024                |
-# Business Problems
-
-1. La experiencia frustrante y poco sostenible en la industria de la moda, provocada por gastos excesivos y grandes acumulaciones de ropa al momento de realizar la compra de un producto de vestimenta para un evento especial.
-
-## Solution Ideas
-
-| Idea | Descripción |
-|------|-------------|
-| Desarrollar una aplicación web intuitiva y fácil de usar | Permitir a los usuarios alquilar prendas, accesorios y calzado para eventos específicos. |
-| Crear un catálogo diverso y actualizado | De prendas y accesorios de moda que se adapten a diferentes estilos y ocasiones. |
-| Implementar una función de recomendación personalizada | Basada en las preferencias y ocasiones de los usuarios. |
-| Ofrecer opciones de alquiler a corto y largo plazo | Para satisfacer diferentes necesidades de eventos. |
-
-# Business Outcomes
-
-| Resultado | Descripción |
-|-----------|-------------|
-| Aumento de la eficiencia en la organización de eventos | Y la gestión de vestimenta. |
-| Mejora de la satisfacción del cliente | Al ofrecer una solución sostenible y asequible. |
-| Generación de ingresos | A través de las tarifas de alquiler y posibles planes de suscripción. |
-| Posibilidad de colaboraciones y asociaciones con marcas de moda locales | . |
-
-# User & Customers
-
-| Tipo de Usuario | Descripción |
-|-----------------|-------------|
-| Usuarios | Personas que asisten a eventos y desean alquilar prendas y accesorios para ocasiones específicas. |
-| Clientes | Individuos que realizan alquileres a través de la plataforma. |
-
-# User Benefits
-
-| Beneficio | Descripción |
-|-----------|-------------|
-| Permitir a los clientes ahorrar tiempo | Al momento de comprar un producto adecuado a su gusto. |
-| Evitar que el cliente se vea obligado | A visitar diferentes tiendas para encontrar un producto. |
-
-# Hypothesis
-
-1. Creemos que sí ofrecemos una variedad diversa y actualizada de prendas y accesorios de moda en nuestra plataforma, aumentaremos la satisfacción del cliente y la probabilidad de alquileres repetidos.
-2. Creemos que al colaborar con marcas sostenibles y locales, podremos ampliar nuestra oferta de productos y atraer a un público más amplio y consciente de la sostenibilidad.
-
-# What's the most important thing we need to learn first?
-
-1. Aprender sobre las opciones de alojamiento web y servidores para asegurarse de que puedan manejar la carga de usuarios y la cantidad de datos necesaria para la plataforma.
-2. Adquirir conocimientos en diseño de UX y UI para crear una interfaz de usuario intuitiva y atractiva que mejore la experiencia de los usuarios al interactuar con la plataforma.
-3. Adquirir habilidades en pruebas y depuración de software para identificar y corregir errores y problemas antes de lanzar la plataforma al público.
-
-# What's the least amount of work we need to do to learn the next most important thing?
-
-1. Desarrollar prototipos del producto de software para brindar un primer acercamiento de cómo se verá y funcionará el programa.
-2. Realizar un análisis del público objetivo mediante el uso de entrevistas de usuario para conocer sus opiniones y puntos de vista.
-3. Familiarizarse con los lenguajes, frameworks y entre otras herramientas de programación que puedan ser vitales para el desarrollo del producto.
-
-
+| Lean UX Canvas | Título: EventWear | Fecha: 28/03/24 |
+|---------------------|----------------------|--------------|
+|Business Problems| Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Christopher Sebastian More Rondon<br><b>TB1</b><br> ...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Joaquin Antonio Cortez Quezada<br><b>TB1</b><br>...<br><br>Tony Alenxander Ramos Najar<br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Christopher Sebastian More Rondon<br><b>TB1</b><br> ...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Joaquin Antonio Cortez Quezada<br><b>TB1</b><br>...<br><br>Tony Alenxander Ramos Najar<br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
 
 ### 3. **Segmentos objetivo.**
 ....
