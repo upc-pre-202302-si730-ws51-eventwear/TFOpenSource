@@ -32,15 +32,15 @@ Nombre del Producto: GetWork
 
 Relación de Integrantes: Jeremy Joel Quispe Andia (u202216279)
 
-`                                        `Sebastian Nicolas Cachis Gonzales (u202210846)
+``Sebastian Nicolas Cachis Gonzales (u202210846)
 
-`                                        `Adriano Sebastian Cruz Palomino (u202210697)
+``Adriano Sebastian Cruz Palomino (u202210697)
 
-`                                        `Alexander Jair Castillo Castillo (u202211390)
+``Alexander Jair Castillo Castillo (u202211390)
 
-`                                        `Andrea Milagros Cabanillas Gora (u202211711)
+``Andrea Milagros Cabanillas Gora (u202211711)
 
-`			     `Elias Yauri Paucar (u202211817)
+``Elias Yauri Paucar (u202211817)
 
 
 Mes y Año: marzo del 2024
