@@ -167,16 +167,16 @@ La causa principal del problema radica en la cultura de consumo impulsada por la
 
 ## - How (Cómo):
 
-## 1. ¿En qué condiciones los clientes usan nuestro producto?
+# 1. ¿En qué condiciones los clientes usan nuestro producto?
    Los clientes usarán nuestro producto en condiciones diversas, pero principalmente en eventos especiales como bodas, graduaciones, galas u otras ocasiones formales. Las prendas alquiladas deberán estar en condiciones óptimas para su uso, limpias y en buen estado. Además, es importante que las prendas se ajusten adecuadamente a las necesidades y preferencias del cliente.
 
-## 2. ¿Cómo nos conocieron los compradores?
+# 2. ¿Cómo nos conocieron los compradores?
    Los compradores pueden conocernos a través de una variedad de canales de marketing y promoción. Esto puede incluir publicidad en línea, campañas en redes sociales, recomendaciones de boca en boca, colaboraciones con influencers de moda, presencia en eventos y ferias locales, así como estrategias de SEO y marketing de contenido. La visibilidad y reputación de la plataforma se construirán en base a la calidad del servicio, la variedad de prendas disponibles y la satisfacción del cliente.
 
-## 3. ¿Cómo prefieren los lectores acceder a nuestro contenido?
+# 3. ¿Cómo prefieren los lectores acceder a nuestro contenido?
    Los clientes preferirán acceder al contenido de nuestra plataforma a través de una experiencia en línea intuitiva y fácil de usar. Esto implica tener un sitio web bien diseñado y optimizado para dispositivos móviles, donde los usuarios puedan navegar por el catálogo de prendas, leer reseñas y valoraciones, realizar reservas y pagos de manera segura, y comunicarse con el equipo de soporte si es necesario. La disponibilidad de una aplicación móvil también puede ser una opción conveniente para algunos usuarios.
 
-## 4. ¿Qué llevó a la persona a esta situación?
+# 4. ¿Qué llevó a la persona a esta situación?
    Las personas se encuentran en esta situación debido a la presión social y cultural para lucir bien en eventos especiales, así como a la influencia de la industria del fast fashion que promueve un consumo desmedido de prendas de vestir. Además, factores individuales como el deseo de variedad en el guardarropa, la falta de conciencia sobre los impactos ambientales del fast fashion y la conveniencia de comprar en lugar de alquilar también pueden haber contribuido a esta situación.
 
 ## - How much (Cuánto):
