@@ -931,8 +931,8 @@ Entonces el landing page le mostrara los beneficios que él puede otorgar hacer 
 ### EP06: Como usuario, quiero acceso a un servicio de soporte al cliente eficaz
 
  
- |EP07: Como usuario, quiero visitar el landing page de la pagina web|
-    |-------------------------------------------------------------------|
+ | EP07: Como usuario, quiero visitar el landing page de la pagina web |
+ |---------------------------------------------------------------------|
  
  
 ### |EP08: FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin.|
