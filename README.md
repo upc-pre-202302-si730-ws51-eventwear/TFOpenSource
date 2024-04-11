@@ -355,11 +355,16 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 | **Oportunidades** | Amplia cantidad de personas que necesitan ropa formal para un uso rápido | Gran cantidad de mujeres que desean verse bien para un evento, pero no cuentan con el dinero necesario para comprar un vestido | Amplia cantidad de personas que desean probar un nuevo look por un precio no demasiado alto | Personas con buena cantidad de dinero y que desean cambiar constantemente de ropa |
 | **Amenazas** | Negocios de alquiler de ropa más conocidos y con mayor prestigio | Negocios que vendan vestidos de buena calidad a un bajo precio | Otros negocios con mayor variedad de ropas | Otros negocios con precios más accesibles |
 
-
-
-
 ####     1.2. Estrategias y tácticas frente a competidores.
-....
+
+Buena visibilidad del catálogo: En el catálogo de la página se debe mostrar la amplia variedad de tipos de ropa que el usuario puede alquilar.<br>
+
+Buena división de ganancias: Los arrendatarios deben recibir un buen margen de ganancias, para incentivarlos a alquilar su ropa y que podamos tener mayor variedad.<br>
+
+Colaboración con marcas sostenibles: Se añadirá al catálogo vestimenta de marcas de ropa sostenibles, las cuales servirán para hacer notar más nuestro servicio.<br>
+
+Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostrar la ropa que más recientemente se ha puesto en alquiler.<br>
+
 ### 2. **Entrevistas.**
 ####     2.1. Diseño de entrevistas.
 ....
