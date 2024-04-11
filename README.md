@@ -202,7 +202,7 @@ Nuestra plataforma busca ofrecer una solución sostenible y rentable al problema
 
 #####         **2.2.2.Lean UX Assumptions.**
 
-## Business Assumptions:
+######  Business Assumptions:
 
 - Existe una demanda en el mercado de soluciones tecnológicas que faciliten el alquiler de prendas y accesorios de moda.
 - Los consumidores muestran disposición para alquilar prendas y accesorios en lugar de adquirirlos de forma definitiva.
@@ -214,7 +214,7 @@ Nuestra plataforma busca ofrecer una solución sostenible y rentable al problema
 - La retroalimentación y los comentarios de los usuarios son considerados valiosos para mejorar continuamente la experiencia de la plataforma.
 - La promoción y la visibilidad en redes sociales y eventos de moda juegan un papel crucial en la captación de usuarios.
 
-## Business Outcomes:
+###### Business Outcomes:
 
 - Reducción del exceso en la industria de la moda.
 - Impulso de la sostenibilidad.
@@ -223,7 +223,7 @@ Nuestra plataforma busca ofrecer una solución sostenible y rentable al problema
 - Generación de ingresos para propietarios.
 - Promoción de la moda sostenible.
 
-## User Assumptions:
+###### User Assumptions:
 
 - Los consumidores muestran interés en adoptar prácticas de moda más sostenibles.
 - Existe disposición por parte de los usuarios a alquilar prendas y accesorios en lugar de comprarlos.
@@ -231,19 +231,19 @@ Nuestra plataforma busca ofrecer una solución sostenible y rentable al problema
 - Los propietarios de prendas y accesorios ven el alquiler como una oportunidad.
 - Los usuarios buscan una plataforma intuitiva y conveniente para el alquiler de moda.
 
-## User:
+###### User:
 
 - Consumidor casual de moda.
 - Propietarios de prendas y accesorios.
 - Asistente a eventos consciente de la moda.
 
-## User Benefits:
+###### User Benefits:
 
 - Consumidores conscientes de la moda.
 - Propietarios de prendas y accesorios.
 - Asistentes a eventos.
 
-## Feature Assumptions:
+###### Feature Assumptions:
 
 - Interfaz Intuitiva y Accesible.
 - Catálogo Variado y Actualizado.
