@@ -494,7 +494,8 @@ Segmento Objetivo 2: María Fernández
 ![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/blob/main/Imagenes/Empathy%20Map-Maria.jpg?raw=true)
 
 ####     3.5. As-is Scenario Mapping.
-....
+
+
 
 
 ## Capítulo III: Requirements Specification
