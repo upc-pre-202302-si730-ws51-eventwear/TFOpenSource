@@ -509,7 +509,7 @@ Segmento Objetivo 2: María Fernández
 
 ### 2. **User Stories.**
 
-
+<br><br>
 | User Story ID | US01   |
 |---------------|--------|
 | Epic ID       | EP01   |
@@ -529,6 +529,7 @@ Cuando aparece el nuevo apartado de datos ingresa su información personal, como
 Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal.<br>
 
 
+<br><br>
 | User Story ID | US02   |
 |---------------|--------|
 | Epic ID       | EP01   |
@@ -546,6 +547,7 @@ Y revisa la bandeja de entrada
 Entonces encuentra un correo electrónico de verificación con un enlace para confirmar su dirección de correo electrónico
 
 
+<br><br>
 | User Story ID | US03   |
 |---------------|--------|
 | Epic ID       | EP01   |
@@ -563,7 +565,7 @@ y ingresa la contraseña
 Y selecciona la opción “Continuar”
 Entonces la aplicación web lo redirige a la pantalla principal
 
-
+<br><br>
 | User Story ID | US04   |
 |---------------|--------|
 | Epic ID       | EP01   |
@@ -581,7 +583,7 @@ Y selecciona Editar
 Entonces la aplicación web guía al usuario para completar campos como nombre, apellidos, foto de perfil, y otra información relevante.
 
 
-
+<br><br>
 | User Story ID | US05   |
 |---------------|--------|
 | Epic ID       | EP02   |
@@ -605,6 +607,7 @@ Y selecciona inicia la búsqueda
 Entonces la aplicación web muestra una lista de prendas que coinciden con los criterios de búsqueda del usuario con una pequeña descripción de estos
 
 
+<br><br>
 | User Story ID | US06   |
 |---------------|--------|
 | Epic ID       | EP02   |
@@ -630,7 +633,7 @@ Y realiza la búsqueda
 Entonces la aplicación web muestra un mensaje de alerta donde muestra los datos erróneos que se agregaron en el filtro
 
 
-
+<br><br>
 | User Story ID | US07   |
 |---------------|--------|
 | Epic ID       | EP02   |
@@ -654,6 +657,7 @@ Cuando navega por la sección
 Entonces la aplicación web muestra una lista de prendas sugeridas basados en los intereses y preferencias del usuario
 
 
+<br><br>
 | User Story ID | US08   |
 |---------------|--------|
 | Epic ID       | EP03   |
@@ -672,7 +676,7 @@ Y selecciona una prenda
 Entonces la aplicación muestra una pantalla con información detallada sobre la prenda, como nombre, precio, imágenes, comentarios y una descripción en la cual se menciona el material, proceso de fabricación, talla, estilo.
 
 
-
+<br><br>
 | User Story ID | US09   |
 |---------------|--------|
 | Epic ID       | EP03   |
@@ -702,7 +706,7 @@ Y selecciona la opción eliminar prenda
 Entonces la aplicación eliminará de Lista de Favoritos la prenda seleccionada
 
 
-
+<br><br>
 | User Story ID | US10   |
 |---------------|--------|
 | Epic ID       | EP04   |
@@ -730,6 +734,7 @@ Cuando selecciono la opción de alquilar ahora
 Entonces la aplicación muestra un campo o selector donde puedo seleccionar la cantidad de tiempo que quiere alquilar la prenda
 
 
+<br><br>
 | User Story ID | US11   |
 |---------------|--------|
 | Epic ID       | EP04   |
@@ -758,6 +763,7 @@ Cuando selecciona la opción de confirmar alquiler
 Entonces la aplicación procesa la solicitud de alquiler, a la par que registra la transacción
 
 
+<br><br>
 | User Story ID | US12   |
 |---------------|--------|
 | Epic ID       | EP05   |
@@ -794,7 +800,7 @@ Entonces, la aplicación pregunta si estoy seguro de que quiere cancelar
  
 
 
-
+<br><br>
 | User Story ID | US13   |
 |---------------|--------|
 | Epic ID       | EP05   |
@@ -819,7 +825,7 @@ Cuando da clic en el elemento de una publicación en la lista.
 Entonces, la aplicación lo redirige a una pantalla que muestra información detallada de esa publicación
 
 
-
+<br><br>
 | User Story ID | US14   |
 |---------------|--------|
 | Epic ID       | EP06   |
@@ -870,7 +876,7 @@ Entonces la aplicación muestra la opción de Saber más sobre moda sostenible
 Dado que el usuario se encuentra en el apartado Saber más sobre moda sostenible
 Entonces la aplicación web iniciaría un chat en tiempo real con un asesor capacitado sobre el tema
 
-
+<br><br>
 | User Story ID | US16   |
 |---------------|--------|
 | Epic ID       | EP08   |
@@ -888,7 +894,7 @@ Y se dirige a la sección de consumidor casual de la moda
 Entonces el landing page le mostrara los beneficios que el puede otorgar hacer uso de la pagina web
 
 
-
+<br><br>
 | User Story ID | US17   |
 |---------------|--------|
 | Epic ID       | EP08   |
