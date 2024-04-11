@@ -187,7 +187,26 @@ width=50%"/>
 ### 3. **Impact Mapping.**
 ....
 ### 4. **Product Backlog.**
-....
+
+|**# Orden**|**User Story Id**|**Título**|**Descripción** |**Story Point ( 1 / 2 / 3 / 5 / 8)** |
+| :- | :- | :- | :- | :- |
+|**1**|**US01**|**Registro de usuario**|Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades.|**3**|
+|**2**|**US02**|**Verificación de correo electrónico**|Como usuario, quiero recibir un correo electrónico de verificación después de registrarme.|**2**|
+|**3**|**US03**|<p>**Inicio de sesión**</p><p></p>|Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.|**3**|
+|**4**|**US04**|<p>**Configuración de perfil inicial**</p><p></p>|Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.|**3**|
+|**5**|**US05**|<p>**Búsqueda de prendas en la aplicación web**</p><p></p>|Como usuario quiero buscar prendas por la app para seleccionar aquellas que se acomoden a mis preferencias.|**8**|
+|**6**|**US06**|<p>**Agregar filtros de búsqueda avanzada**</p><p></p>|Como usuario quiero tener a mi disposición una serie de filtros para encontrar una prenda de mi interés más rápido.|**5**|
+|**7**|**US07**|**Exploración de prendas recomendadas**|Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos.|**5**|
+|**8**|**US08**|<p>**Ver detalles de la prenda**</p><p></p>|Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes.|**3**|
+|**9**|**US09**|<p>**Guardar prendas en favoritos**</p><p></p>|Como usuario, quiero tener la opción de guardar una prenda en mi lista de favoritos para poder acceder rápidamente a ella en cualquier momento.|**2**|
+|**10**|**US10**|**Ver sección de alquiler en la aplicación**|Como usuario, quiero poder acceder al alquiler de cualquier prenda en la aplicación.|**5**|
+|**11**|**US11**|**Realizar Alquiler de prendas**|Como usuario, quiero poder realizar el alquiler de una prenda por un tiempo determinado para tenerla en mi poder.|**8**|
+|**12**|**US12**|<p>**Crear una nueva publicación**</p><p></p>|Como usuario quiero tener la posibilidad de publicar las prendas en buen estado que ya no uso en la aplicación para generar algún tipo de ingreso.|**5**|
+|**13**|**US13**|<p>**Visualizar todas mis publicaciones**</p><p></p>|Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco.|**3**|
+|**14**|**US14**|<p>**Ayuda con problemas en la aplicación**</p><p></p>|Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación.|**3**|
+|**15**|**US15**|<p>**Asesoramiento sobre moda sostenible**</p><p></p>|Como usuario quiero poder tener asesoramiento sobre moda sostenible para saber cómo puedo ayudar al medio ambiente.|**5**|
+|**16**|**US16**|<p>**Recopilación de información**</p><p></p>|Como consumidor casual de la moda, quiero encontrar la información precisa para utilizar la aplicación web.|**3**|
+|**17**|**US17**|<p>**Beneficios al consumidor**</p><p></p>|Como Asistente a eventos consciente de la moda, quiero entender los beneficios que me aportara el uso de la página web.|**3**|
 
 
 ## Capítulo IV: Product Design
