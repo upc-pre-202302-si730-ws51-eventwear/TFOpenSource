@@ -1166,6 +1166,51 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 
 ####     4.1.1. *Mobile*
 
+![image](Imagenes/WireFrames/Mobile/PantallaIniciosesion.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/CrearCuenta.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Pantalladeerrordesesión.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/CuentaCreadaCorrecta.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Páginadeinicio(HOME).png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Menúdesplegado.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Menúdesplegado-1.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/MiCuenta.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Ordenes.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Categorias-2.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Categorias.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Categorias-3.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Carrito.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Carrito-1.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Soporte.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Soporte2.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Soporte2-1.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Soporte3.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Soporte4.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Chats.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Chats-1.png)
+<br>
+![image](Imagenes/WireFrames/Mobile/Chats-3.jpg)
+<br>
+
 ####     4.1.2. *Web*
 
 ![image](Imagenes/WireFrames/inciasesion.jpg)
