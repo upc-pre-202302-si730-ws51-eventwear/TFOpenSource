@@ -275,7 +275,10 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 
 
 #####         **2.2.4.Lean UX Canvas.**
-....
+
+| Lean UX Canvas                   | Título : Event Wear                                              |    Fecha: 28/03/2024                |
+|----------------------------------|------------------------------------------------------------------|-------------------------------------|
+
 ### 3. **Segmentos objetivo.**
 ....
 
