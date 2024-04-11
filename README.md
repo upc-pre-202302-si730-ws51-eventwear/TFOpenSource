@@ -1148,8 +1148,11 @@ Al implementar estos sistemas de búsqueda, los usuarios podrán encontrar fáci
 
 
 ####     2.5. Navigation Systems.
-....
+
+Los principales sistemas de navegación en Event Wear son los menús superior e inferior. Estas etiquetas ayudan a los usuarios a navegar por las secciones que desean ver dentro de la página. Si no se utilizan enlaces, el usuario verá la página en orden descendente. En la aplicación, los usuarios navegan por los recursos y la formación que ofrece Event Wear . Los botones también representan la apertura, confirmación o finalización de un registro y permiten a los usuarios seguir el proceso en una nueva pantalla.
+
 ### 3. **Landing Page UI Design.**
+
 ####     3.1. Landing Page Wireframe.
 ....
 ####     3.2. Landing Page Mock-up.
