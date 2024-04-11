@@ -928,20 +928,24 @@ Entonces el landing page le mostrara los beneficios que él puede otorgar hacer 
 ### 3. **Impact Mapping.**
 
 - **¿Por qué llevar a cabo nuestro proyecto?**
+  
 Porque queremos abordar el problema del fast fashion y el desperdicio de moda, pudiendo ofrecer una opción sostenible que promueva la reutilización de prendas
 
 - **¿Cuál es nuestro público objetivo?**
+  
 Nuestro público objetivo son personas que buscan prendas únicas y de calidad para diversas ocasiones, así también como aquellos que solo desean adquirir ropa moderna y de moda.
 
 - **¿Cómo nuestro público nos ayuda a conseguir nuestro objetivo?**
+  
 Nos ayuda al utilizar la plataforma para alquilar y compartir nuevas o prendas que ellos posean, contribuyendo así a reducir el consumo excesivo de moda desperdiciada
 
 - **¿Qué podemos hacer para lograr el impacto deseado en nuestro público?**
+  
 Podemos promover activamente la plataforma a través de campañas de concienciación sobre la moda sostenible, también podemos colaborar con diseñadores y marcas comprometidas con la sostenibilidad, además de crear una comunidad específica de Event Wear donde compartir ideas
 
 #### 3.3.1 Impact Mapping Design:
 
-![image]()
+![image](Imagenes/ImpactMap.PNG)
 
 ### 4. **Product Backlog.**
 
