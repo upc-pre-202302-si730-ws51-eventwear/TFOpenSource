@@ -279,13 +279,7 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 | Lean UX Canvas                   | Título : Event Wear                                              |    Fecha: 28/03/2024                |
 |----------------------------------|------------------------------------------------------------------|-------------------------------------|
 | #### Business Problems           | ### Solution Ideas                                               |    ### Business Outcomes            |
-| 1)   La experiencia frustrante y poco sostenible en la industria de la moda, la cual es provocada por gastos excesivos y grandes acumulaciones de ropa al momento de realizar la compra de un producto de vestimenta para un evento especial,                                 |        1)         Desarrollar una aplicación web intuitiva y fácil de usar que permita a los usuarios alquilar prendas, accesorios y calzado para eventos específicos.
-2)         Crear un catálogo diverso y actualizado de prendas y accesorios de moda que se adapten a diferentes estilos y ocasiones.
-3)         Implementar una función de recomendación personalizada basada en las preferencias y ocasiones de los usuarios.
-4)         Ofrecer opciones de alquiler a corto y largo plazo para satisfacer diferentes necesidades de eventos                                                          |            1)    Aumento de la eficiencia en la organización de eventos y la gestión de vestimenta.
-2)    Mejora de la satisfacción del cliente al ofrecer una solución sostenible y asequible.
-3)    Generación de ingresos a través de las tarifas de alquiler y posibles planes de suscripción.
-4)    Posibilidad de colaboraciones y asociaciones con marcas de moda locales.                         |
+| 1)   La experiencia frustrante y poco sostenible en la industria de la moda, la cual es provocada por gastos excesivos y grandes acumulaciones de ropa al momento de realizar la compra de un producto de vestimenta para un evento especial |
 
 ### 3. **Segmentos objetivo.**
 ....
