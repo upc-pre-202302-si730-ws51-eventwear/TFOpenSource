@@ -848,7 +848,7 @@ Cuando el equipo de soporte recibe la solicitud
 Entonces la aplicación iniciaría un chat con un personal especializado para que pueda resolver todas mis dudas
 
 
-
+<br><br>
 | User Story ID | US15   |
 |---------------|--------|
 | Epic ID       | EP06   |
