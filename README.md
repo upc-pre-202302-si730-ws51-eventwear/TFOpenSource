@@ -1154,12 +1154,23 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ### 3. **Landing Page UI Design.**
 
 ####     3.1. Landing Page Wireframe.
-....
+
+![image](Imagenes/WireFrames/Wireframe.PNG) 
+
 ####     3.2. Landing Page Mock-up.
-....
+
+![image](Imagenes/WireFrames/LandingP.PNG)
+
 ### 4. **Web Applications UX/UI Design.**
 ####     4.1. Web Applications Wireframes.
-....
+
+####     4.1.1. *Mobile*
+
+####     4.1.2. *Web*
+
+![image](Imagenes/WireFrames/iniciasesion.jpg)
+    
+
 ####     4.2. Web Applications Wireflow Diagrams.
 ....
 ####     4.3. Web Applications Mock-ups.
