@@ -515,7 +515,7 @@ Segmento Objetivo 2: María Fernández
 
 
 |Título|Registro de usuario|
-
+|----|------|
 
 ### 3. **Impact Mapping.**
 ....
