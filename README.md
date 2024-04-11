@@ -912,11 +912,11 @@ Y se dirige a la sección de consumidor casual de la moda
 Entonces el landing page le mostrara los beneficios que él puede otorgar hacer uso de la pagina web
 
 ## Epics:
-
+ |---------------------------------------------------------------------|
  | EP01:  Como usuario quiero tener un registro y configuración del perfil del usuario |
- 
+ |---------------------------------------------------------------------|
  | EP02: Como usuario quiero poder buscar la prenda que me interesa. | 
- 
+ |---------------------------------------------------------------------|
  | EP03: Como usuario quiero obtener información detallada la prenda de mi interés |
  |---------------------------------------------------------------------|
  | EP04: Como usuario quiero poder realizar el alquiler de una prenda |
