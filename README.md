@@ -512,9 +512,10 @@ Segmento Objetivo 2: María Fernández
 
 |User ID|US01|EpicID|Ep01|
 |-------|----|------|----|
-|-------|----|------|----|
+
+
 |Título|Registro de usuario|
-|-------|----|------|----|
+
 
 ### 3. **Impact Mapping.**
 ....
