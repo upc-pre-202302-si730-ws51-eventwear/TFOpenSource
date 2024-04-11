@@ -283,7 +283,36 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 | Hypothesis<br><br><br> - Creemos que sí ofrecemos una variedad diversa y actualizada de prendas y accesorios de moda en nuestra plataforma, aumentaremos la satisfacción del cliente y la probabilidad de alquileres repetidos.<br> - Creemos que al colaborar con marcas sostenibles y locales, podremos ampliar nuestra oferta de productos y atraer a un público más amplio y consciente de la sostenibilidad.| What's the most important thing we need to learn first?<br><br><br> - Aprender sobre las opciones de alojamiento web y servidores para asegurarse de que puedan manejar la carga de usuarios y la cantidad de datos necesaria para la plataforma.<br> - Adquirir conocimientos en diseño de UX y UI para crear una interfaz de usuario intuitiva y atractiva que mejore la experiencia de los usuarios al interactuar con la plataforma.<br> - Adquirir habilidades en pruebas y depuración de software para identificar y corregir errores y problemas antes de lanzar la plataforma al público.| What's the least amount of work we need to do to learn the next most important thing?<br><br><br> - Desarrollar prototipos del producto de software para brindar un primer acercamiento de cómo se verá y funcionará el programa.<br> - Realizar un análisis del público objetivo mediante el uso de entrevistas de usuario para conocer sus opiniones y puntos de vista.<br> - Familiarizarse con los lenguajes, frameworks y entre otras herramientas de programación que puedan ser vitales para el desarrollo del producto.|
 
 ### 3. **Segmentos objetivo.**
-....
+
+Nuestro segmento objetivo lo conforman las personas las cuales asisten con mayor o menor frecuencia diferentes eventos especiales y buscan una manera rentable y sostenible de obtener la prenda o accesorias que necesitan.
+ #### Segmento 1: Consumidor casual de moda:
+##### Aspectos demográficos:
+• Sexo: masculino y femenino
+• Edades: jóvenes adultos entre 18 - 25 años
+##### Aspectos geográficos:
+• Nacionalidad: Peruana
+• Zona geográfica en la que vive: Urbana
+• Departamento: Lima Metropolitana
+##### Aspectos psicográficos:
+• Abiertos a alquilar prendar o accesorios los cuales utilizarían para ocasiones puntuales
+No asisten con frecuencia a muchos eventos, pero cuando lo hacen, desean lucir impecable
+• Esperan encontrar prendas de buena calidad cuando buscan comprar o alquilar un nuevo vestuario
+Están conscientes del impacto ambiental de la moda.
+
+#### Segmento 2: Asistente a eventos :
+##### Aspectos demográficos:
+• Sexo: masculino y femenino
+• Edades: adultos entre 25 - 45 años
+##### Aspectos geográficos:
+• Nacionalidad: Peruana
+• Zona geográfica en la que vive: Urbana
+• Departamento: Lima Metropolitana
+##### Aspectos psicográficos:
+ • Disfrutan de asistir a una variedad de eventos sociales y especiales, como fiestas, bodas, cenas formales, eventos de negocios, etc.
+• Tienen un estilo de vida activo y socialmente comprometido, lo que los lleva a requerir una variedad de prendas.
+• Valoran la comodidad y la conveniencia, buscando soluciones prácticas y rentables para satisfacer sus necesidades de vestuario.
+• Están conscientes del impacto ambiental de la moda.
+
 
 
 
