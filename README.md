@@ -1096,7 +1096,7 @@ Esta etiqueta es crucial para la identificación del contenido de la página por
 
 ```html
 <title>Alquiler de Moda para Eventos Especiales | Event Wear</title>
-
+```
 
 
 
