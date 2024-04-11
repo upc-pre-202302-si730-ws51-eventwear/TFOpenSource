@@ -1098,34 +1098,38 @@ Esta etiqueta es crucial para la identificación del contenido de la página por
 <title>Alquiler de Moda para Eventos Especiales | Event Wear</title>
 ```
 
-
-
-Codificación de caracteres:
+#### Codificación de caracteres:
 
 Esta etiqueta asegura la correcta visualización de los caracteres especiales en la página.
 
+```html
 <meta charset="utf-8">
+```
 
-
-Descripción:
+#### Descripción:
 
 Proporciona un resumen conciso del sitio web, crucial para atraer visitantes desde los resultados de búsqueda.
 
+```html
 <meta name="description" content="Event Wear ofrece un servicio exclusivo de alquiler de moda sostenible y de alta calidad para tus eventos especiales. Descubre una nueva forma de brillar en cada ocasión.">
+```
 
-Palabras clave:
+#### Palabras clave:
 
 Incluye palabras clave relevantes que ayudan a mejorar el posicionamiento del sitio en los resultados de búsqueda relacionados.
 
+```html
 <meta name="keywords" content="alquiler de moda, moda sostenible, vestidos de gala, trajes de evento, moda de lujo, alquiler de vestidos, eventos especiales, moda consciente">
+```
 
-Autor y Derechos de Autor:
+#### Autor y Derechos de Autor:
 
 Registra la autoría y los derechos de autor del contenido de la página web.
 
+```html
 <meta name="author" content="Event Wear Team">
 <meta name="copyright" content="Copyright © 2024 Event Wear">
-
+```
 
 
 ####     2.4. Searching Systems.
