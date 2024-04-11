@@ -495,7 +495,7 @@ Segmento Objetivo 2: María Fernández
 
 ####     3.5. As-is Scenario Mapping.
 
-![image](Imagenes/as-is SM.PNG)
+![image](Imagenes/as-isSM.PNG) 
 
 
 ## Capítulo III: Requirements Specification
