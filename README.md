@@ -511,8 +511,11 @@ Segmento Objetivo 2: María Fernández
 
 
 | User Story ID | US01 | Epic ID | Ep01 |
+||
 | Título        |   Registro de usuario |
+||
 | Descripción        |   Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades. |
+||
 | Criterios de aceptación:          
 Escenario 1: Registro de cuenta con Gmail
 Dado que el usuario se quiere registrar en la web
