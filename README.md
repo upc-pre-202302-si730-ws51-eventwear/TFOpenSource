@@ -179,6 +179,16 @@ Segmento Objetivo 2: María Fernández
 ![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/blob/cf9dfed76bc1ddbe1fa17e3eea427e14f9645b86/Imagenes/Mar%C3%ADa-Fern%C3%A1ndez-User-Persona.png?raw=true)
 
 ####     3.2. User Task Matrix.
+
+| Actividades                                                                                           | Frecuencia        | Importancia |
+|-------------------------------------------------------------------------------------------------------|-------------------|-------------|
+| Almacenar archivos o documentos relacionados con sus clases en servicios de almacenamiento en la nube. | Con Frecuencia    | Alta        |
+| Trabajar de forma colaborativa en línea al mismo tiempo que sus colegas.                             | Con Frecuencia    | Alta        |
+| Organizar sus archivos para lograr una gestión más efectiva.                                          | A veces           | Media       |
+| Modificar sus documentos directamente desde el almacenamiento en la nube.                              | A veces           | Media       |
+| Acceder a sus archivos almacenados en la nube desde diversos dispositivos.                             | Con Frecuencia    | Alta        |
+| Eliminar archivos de manera permanente o temporal.                                                    | Rara vez          | Baja        |
+
 ....
 ####     3.3. User Journey Mapping.
 
