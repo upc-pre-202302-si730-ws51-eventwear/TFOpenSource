@@ -394,7 +394,7 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 
 
 ####     2.2. Registro de entrevistas.
-<br><br>
+<br>
 #### Entrevista 1: 
 ##### Entrevista segmento 1
 ##### Nombre: Fabrizio Mori
