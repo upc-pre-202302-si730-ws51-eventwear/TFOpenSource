@@ -394,7 +394,7 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 
 
 ####     2.2. Registro de entrevistas.
-<br>
+
 #### Entrevista 1: 
 ##### Entrevista segmento 1
 ##### Nombre: Fabrizio Mori
@@ -405,7 +405,7 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 ##### Link: https://drive.google.com/file/d/1FB1q0pdWf_Nw4sgypsgPR5WjAJ0EdXTH/view?usp=drivesdk 
 ##### Resumen:
 El entrevistado menciona comprar en su mayoría en tiendas grandes, pero que suele tener problemas para encontrar ropa del color que desea y de buena calidad. Además, menciona no asistir a eventos sociales muy frecuentemente, y que solo estaría interesado en alquilar para eventos especiales
-<br><br>
+<br><br><br>
 #### Entrevista 2: 
 ##### Sexo: Femenino
 ##### Edad: 19 años
@@ -414,7 +414,7 @@ El entrevistado menciona comprar en su mayoría en tiendas grandes, pero que sue
 ##### Duración: 4:25
 ##### Resumen:
 En la entrevista, Bárbara Quezada compartió sus experiencias en alquiler de venta, destacando la importancia de la preparación y la confianza en sí misma. Señaló que al enfrentar diversas compras, se brindó la oportunidad de aprender y mejorar sus habilidades de comunicación. Además, expresó su aprecio por las plataformas que ofrecen alquiler de ropas, considerándose útiles para familiarizarse con el proceso de facilitar la búsqueda de ropa.<br>
-<br><br>
+<br><br><br>
 #### Entrevista 3: 
 ##### Segmento 2
 ##### Sexo: Masculino
