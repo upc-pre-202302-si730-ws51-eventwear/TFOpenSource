@@ -134,7 +134,7 @@ width=50%"/>
 ### 1. **Startup Profile.**
 ####     1.1.   Descripción del startup
 
-    "Event Wear" es una plataforma innovadora que revoluciona la forma en que las personas se visten para eventos especiales al ofrecer una alternativa sostenible al fast fashion. Conectando a usuarios que desean lucir       prendas únicas y de calidad con aquellos que tienen piezas para alquilar, Event Wear promueve la reutilización y el intercambio, reduciendo así el desperdicio de moda.
+##"Event Wear" es una plataforma innovadora que revoluciona la forma en que las personas se visten para eventos especiales al ofrecer una alternativa sostenible al fast fashion. Conectando a usuarios que desean lucir       prendas únicas y de calidad con aquellos que tienen piezas para alquilar, Event Wear promueve la reutilización y el intercambio, reduciendo así el desperdicio de moda.
 
 Nuestro propósito es empoderar a los usuarios para que disfruten de la moda de manera consciente, fomentando la comunidad, la creatividad y la responsabilidad social a través de la moda sostenible. Event Wear no solo ofrece una solución práctica y elegante para eventos especiales, sino que también contribuye positivamente al medio ambiente y a la sociedad al cambiar la forma en que consumimos moda.
 
