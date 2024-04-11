@@ -498,6 +498,9 @@ Segmento Objetivo 2: María Fernández
 
 ![image](Imagenes/as-isSM.PNG) 
 
+####     3.6. Ubiquitous Language.
+
+![image](Imagenes/UbiquitousL.PNG)
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
