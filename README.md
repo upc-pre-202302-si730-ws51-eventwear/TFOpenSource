@@ -94,7 +94,8 @@ En CodePace, visualizamos un futuro donde cada programador tenga acceso a recurs
 
 |**Integrantes**|**Descripción del Perfil**|
 | :-: | :-: |
-|<p>**Sebastian Nicolas Cachis Gonzales (u202210846)**</p><p>![Un hombre vestido formal parado con un traje de color negro
+|<p>**Sebastian Nicolas Cachis Gonzales (u202210846)**</p><p>![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/7a1c14e1-4f9d-4ca0-834d-9da0cf25c087)
+
 
 Descripción generada automáticamente con confianza media](Aspose.Words.dd8df8e0-88aa-418a-a3ac-8af5e76e04e2.001.png)</p>|Tengo 19 años, soy alumno de Ingeniería de Software en la UPC en mi quinto ciclo. Me considero una persona proactiva, organizada, meticulosa y muy enfocada en mis estudios, tanto grupales como individuales. Tengo facilidad para entender y ejemplificar los distintos temas que vemos, teniendo soltura para explicar.|
 |<p>**Adriano Sebastian Cruz Palomino (u202210697)**</p><p>![Mujer sonriendo con lentes
