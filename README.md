@@ -320,7 +320,21 @@ Están conscientes del impacto ambiental de la moda.
 
 ### 1. **Competidores.**
 ####     1.1. Análisis competitivo.
-....
+
+##### OSZADA: Negocio de alquiler de vestidos, en el que también es posible poner en alquiler un vestido tuyo, a cambio de una ganancia monetaria por el alquiler de este
+[OSZADA: Negocio de alquiler de vestidos](https://oszadaboutique.com/)
+
+
+
+##### Ecodicta: Es un servicio de alquiler: “Ecodicta night out”. Puedes alquilar trajes durante seis días para llevarlos a eventos, y devolverlo mostrando una etiqueta prepagada
+[Ecodicta: Servicio de alquiler "Ecodicta night out"](https://ecodicta.com/ecodicta-night-out/)
+
+
+
+##### Rent the Runaway: Plataforma usada para rentar ropa de diseñador, la cual permite obtener suscripciones a distintos precios para poder rentar items y mantenerlos por el tiempo deseado.
+[Rent the Runaway: Plataforma de alquiler de ropa de diseñador](https://www.renttherunway.com/)
+
+
 ####     1.2. Estrategias y tácticas frente a competidores.
 ....
 ### 2. **Entrevistas.**
