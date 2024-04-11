@@ -60,35 +60,6 @@ width=50%"/>
             3.Lean UX Hypothesis Statements.
             4.Lean UX Canvas.
     3. Segmentos objetivo.
-       Nuestro segmento objetivo lo conforman las personas las cuales asisten con mayor o menor frecuencia diferentes eventos especiales y buscan una manera rentable y sostenible de obtener la prenda o accesorias que necesitan.
-
-**Segmento 1: Consumidor casual de moda:**
-**Aspectos demográficos:**
-- Sexo: masculino y femenino
-- Edades: jóvenes adultos entre 18 - 25 años
-**Aspectos geográficos:**
-- Nacionalidad: Peruana
-- Zona geográfica en la que vive: Urbana
-- Departamento: Lima Metropolitana
-**Aspectos psicográficos:**
-- Abiertos a alquilar prendas o accesorios los cuales utilizarían para ocasiones puntuales
-- No asisten con frecuencia a muchos eventos, pero cuando lo hacen, desean lucir impecables
-- Esperan encontrar prendas de buena calidad cuando buscan comprar o alquilar un nuevo vestuario
-- Están conscientes del impacto ambiental de la moda.
-
-**Segmento 2: Asistente a eventos:**
-**Aspectos demográficos:**
-- Sexo: masculino y femenino
-- Edades: adultos entre 25 - 45 años
-**Aspectos geográficos:**
-- Nacionalidad: Peruana
-- Zona geográfica en la que vive: Urbana
-- Departamento: Lima Metropolitana
-**Aspectos psicográficos:**
-- Disfrutan de asistir a una variedad de eventos sociales y especiales, como fiestas, bodas, cenas formales, eventos de negocios, etc.
-- Tienen un estilo de vida activo y socialmente comprometido, lo que los lleva a requerir una variedad de prendas.
-- Valoran la comodidad y la conveniencia, buscando soluciones prácticas y rentables para satisfacer sus necesidades de vestuario.
-- Están conscientes del impacto ambiental de la moda.
 
 2. **Capítulo II: Requirements Elicitation & Analysis.**
     1. Competidores.
