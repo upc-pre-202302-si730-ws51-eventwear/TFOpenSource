@@ -404,16 +404,16 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 ##### Duración: 1:40
 ##### Link: https://drive.google.com/file/d/1FB1q0pdWf_Nw4sgypsgPR5WjAJ0EdXTH/view?usp=drivesdk 
 ##### Resumen:
-El entrevistado menciona comprar en su mayoría en tiendas grandes, pero que suele tener problemas para encontrar ropa del color que desea y de buena calidad. Además, menciona no asistir a eventos sociales muy frecuentemente, y que solo estaría interesado en alquilar para eventos especiales
+El entrevistado menciona comprar en su mayoría en tiendas grandes, pero que suele tener problemas para encontrar ropa del color que desea y de buena calidad. Además, menciona no asistir a eventos sociales muy frecuentemente, y que solo estaría interesado en alquilar para eventos especiales<br>
 
 #### Entrevista 2: 
-##### Sexo: Femenino
-##### Edad: 19 años
-##### Ubicación: San Juan de Lurigancho
-##### Link: https://drive.google.com/file/d/1Ht6Esxej6BWppiIna8QscvJgaVyLsYex/view?usp=sharing 
-##### Duración: 4:25
-##### Resumen:
-En la entrevista, Bárbara Quezada compartió sus experiencias en alquiler de venta, destacando la importancia de la preparación y la confianza en sí misma. Señaló que al enfrentar diversas compras, se brindó la oportunidad de aprender y mejorar sus habilidades de comunicación. Además, expresó su aprecio por las plataformas que ofrecen alquiler de ropas, considerándose útiles para familiarizarse con el proceso de facilitar la búsqueda de ropa.
+Sexo: Femenino
+Edad: 19 años
+Ubicación: San Juan de Lurigancho
+Link: https://drive.google.com/file/d/1Ht6Esxej6BWppiIna8QscvJgaVyLsYex/view?usp=sharing 
+Duración: 4:25
+Resumen:
+En la entrevista, Bárbara Quezada compartió sus experiencias en alquiler de venta, destacando la importancia de la preparación y la confianza en sí misma. Señaló que al enfrentar diversas compras, se brindó la oportunidad de aprender y mejorar sus habilidades de comunicación. Además, expresó su aprecio por las plataformas que ofrecen alquiler de ropas, considerándose útiles para familiarizarse con el proceso de facilitar la búsqueda de ropa.<br>
 
 #### Entrevista 3: 
 ##### Segmento 2
