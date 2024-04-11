@@ -521,30 +521,165 @@ Como usuario, quiero registrarme en la aplicación web para acceder a todas sus 
 ### Criterios de aceptación
 
 #### Escenario 1: Registro de cuenta con Gmail
-1. Dado que el usuario se quiere registrar en la web
-2. Cuando selecciona la opción “Registrarse” en la pantalla de registros
-3. Y ingresa su Gmail personal
-4. Y selecciona la opción “Continuar registro”
-5. Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña
-6. Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal.<br>
+Dado que el usuario se quiere registrar en la web
+Cuando selecciona la opción “Registrarse” en la pantalla de registros
+Y ingresa su Gmail personal
+Y selecciona la opción “Continuar registro”
+Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña
+Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal.<br>
 
-| User Story ID | US01   |
+| User Story ID | US02   |
 |---------------|--------|
 | Epic ID       | EP01   |
-| Título        | Registro de usuario |
+| Título        | Verificación de correo electrónico |
 
 ### Descripción
-Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades.
+Como usuario, quiero recibir un correo electrónico de verificación después de registrarme.
 
 ### Criterios de aceptación
 
-#### Escenario 1: Registro de cuenta con Gmail
-1. Dado que el usuario se quiere registrar en la web
-2. Cuando selecciona la opción “Registrarse” en la pantalla de registros
-3. Y ingresa su Gmail personal
-4. Y selecciona la opción “Continuar registro”
-5. Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña
-6. Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal.<br>
+#### Escenario 1: Verificación de correo electrónico
+Dado que el nuevo usuario se a registrado
+Cuando ingreso a su correo electrónico
+Y revisa la bandeja de entrada
+Entonces encuentra un correo electrónico de verificación con un enlace para confirmar su dirección de correo electrónico
+
+| User Story ID | US04   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Configuración de perfil inicial |
+
+### Descripción
+Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.
+
+### Criterios de aceptación
+
+#### Escenario 1: Configuración de perfil inicial
+Dado que el usuario se encuentra en la pantalla principal
+Cuando accede a la pantalla de perfil
+Y selecciona Editar
+Entonces la aplicación web guía al usuario para completar campos como nombre, apellidos, foto de perfil, y otra información relevante.
+
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
+| User Story ID | US03   |
+|---------------|--------|
+| Epic ID       | EP01   |
+| Título        | Inicio de sesión |
+
+### Descripción
+Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.  
+
+### Criterios de aceptación
+
+#### Escenario 1: Inicio de sesión con correo
+Dado que el usuario quiere iniciar sesión
+Cuando ingresa su correo electrónico en la pantalla de inicio de sesión
+y ingresa la contraseña
+Y selecciona la opción “Continuar”
+Entonces la aplicación web lo redirige a la pantalla principal
+
 
 
 
