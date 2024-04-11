@@ -180,6 +180,7 @@ Segmento Objetivo 2: María Fernández
 
 ####     3.2. User Task Matrix.
 
+
 BARBARA SANCHEZ
 | Actividades                                                                                           | Frecuencia        | Importancia |
 |-------------------------------------------------------------------------------------------------------|-------------------|-------------|
@@ -188,6 +189,17 @@ BARBARA SANCHEZ
 | Organizar sus archivos para lograr una gestión más efectiva.                                          | A veces           | Media       |
 | Modificar sus documentos directamente desde el almacenamiento en la nube.                              | A veces           | Media       |
 | Acceder a sus archivos almacenados en la nube desde diversos dispositivos.                             | Con Frecuencia    | Alta        |
+| Eliminar archivos de manera permanente o temporal.                                                    | Rara vez          | Baja        |
+
+
+MARIA FERNANDEZ
+| Actividades                                                                                           | Frecuencia        | Importancia |
+|-------------------------------------------------------------------------------------------------------|-------------------|-------------|
+| Almacenar archivos o documentos relacionados con sus clases en servicios de almacenamiento en la nube. | A veces           | Media       |
+| Trabajar de forma colaborativa en línea al mismo tiempo que sus colegas.                             | Con Frecuencia    | Alta        |
+| Organizar sus archivos para lograr una gestión más efectiva.                                          | Con frecuencia    | Alta        |
+| Modificar sus documentos directamente desde el almacenamiento en la nube.                              | A veces           | Media       |
+| Acceder a sus archivos almacenados en la nube desde diversos dispositivos.                             | Rara Vez          | Baja        |
 | Eliminar archivos de manera permanente o temporal.                                                    | Rara vez          | Baja        |
 
 ....
