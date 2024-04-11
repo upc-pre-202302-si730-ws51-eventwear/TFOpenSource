@@ -278,7 +278,7 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 
 | Lean UX Canvas                   | Título : Event Wear                                              |    Fecha: 28/03/2024                |
 |----------------------------------|------------------------------------------------------------------|-------------------------------------|
-| #### Business Problems           | ### Solution Ideas                                               |    ### Business Outcomes            |
+|  Business Problems           |  Solution Ideas                                               |     Business Outcomes            |
 | 1)   La experiencia frustrante y poco sostenible en la industria de la moda, la cual es provocada por gastos excesivos y grandes acumulaciones de ropa al momento de realizar la compra de un producto de vestimenta para un evento especial |
 
 ### 3. **Segmentos objetivo.**
