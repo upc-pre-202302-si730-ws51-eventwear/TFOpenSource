@@ -913,25 +913,16 @@ Entonces el landing page le mostrara los beneficios que él puede otorgar hacer 
 
 ## Epics:
 
- | EP01:  Como usuario quiero tener un registro y configuración del perfil del usuario |
- ||
- | EP02: Como usuario quiero poder buscar la prenda que me interesa. | 
- ||
- | EP03: Como usuario quiero obtener información detallada la prenda de mi interés |
- ||
- | EP04: Como usuario quiero poder realizar el alquiler de una prenda |
- |---------------------------------------------------------------------|
- | EP05: Como usuario quiero tener la opción de publicar mis prendas |
- |---------------------------------------------------------------------|
- | EP06: Como usuario, quiero acceso a un servicio de soporte al cliente eficaz |
- |---------------------------------------------------------------------|
- 
- | EP07: Como usuario, quiero visitar el landing page de la pagina web |
- |---------------------------------------------------------------------|
- 
- | EP08: FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin. |
- |--------|
-
+| Épica                                | Descripción                                                                                                     |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| EP01: Registro y configuración del perfil del usuario | Como usuario, quiero tener un registro y configuración del perfil del usuario.                                |
+| EP02: Búsqueda de prendas             | Como usuario, quiero poder buscar la prenda que me interesa.                                                   |
+| EP03: Información detallada de prendas | Como usuario, quiero obtener información detallada de la prenda de mi interés.                                 |
+| EP04: Alquiler de prendas             | Como usuario, quiero poder realizar el alquiler de una prenda.                                                  |
+| EP05: Publicación de prendas          | Como usuario, quiero tener la opción de publicar mis prendas.                                                  |
+| EP06: Servicio de soporte al cliente  | Como usuario, quiero acceso a un servicio de soporte al cliente eficaz.                                       |
+| EP07: Visita al landing page          | Como usuario, quiero visitar el landing page de la página web.                                                 |
+| EP08: Historias técnicas del RESTful API | FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin. |
 
 
 ### 3. **Impact Mapping.**
