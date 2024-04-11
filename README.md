@@ -176,7 +176,7 @@ La causa principal del problema radica en la cultura de consumo impulsada por la
 # 3. ¿Cómo prefieren los lectores acceder a nuestro contenido?
    Los clientes preferirán acceder al contenido de nuestra plataforma a través de una experiencia en línea intuitiva y fácil de usar. Esto implica tener un sitio web bien diseñado y optimizado para dispositivos móviles, donde los usuarios puedan navegar por el catálogo de prendas, leer reseñas y valoraciones, realizar reservas y pagos de manera segura, y comunicarse con el equipo de soporte si es necesario. La disponibilidad de una aplicación móvil también puede ser una opción conveniente para algunos usuarios.
 
-# 4. ¿Qué llevó a la persona a esta situación?
+### 4. ¿Qué llevó a la persona a esta situación?
    Las personas se encuentran en esta situación debido a la presión social y cultural para lucir bien en eventos especiales, así como a la influencia de la industria del fast fashion que promueve un consumo desmedido de prendas de vestir. Además, factores individuales como el deseo de variedad en el guardarropa, la falta de conciencia sobre los impactos ambientales del fast fashion y la conveniencia de comprar en lugar de alquilar también pueden haber contribuido a esta situación.
 
 ## - How much (Cuánto):
