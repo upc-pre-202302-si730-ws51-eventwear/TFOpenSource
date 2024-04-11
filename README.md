@@ -1054,7 +1054,35 @@ Estas características y elementos visuales trabajarán juntos para crear una ex
 ####     2.1. Organization Systems.
 ....
 ####     2.2. Labeling Systems.
-....
+
+
+Para crear un sistema de etiquetado eficiente para "Event Wear", se debe tener en cuenta cómo categorizar y filtrar las prendas y accesorios disponibles para facilitar la búsqueda y selección por parte de los usuarios. Aquí se propone un sistema de etiquetado que abarca varios aspectos clave:
+
+#### **1. Categorías de Prendas y Accesorios**
+##### *Tipo de Prenda:* Vestidos, trajes, camisas, faldas, pantalones, zapatos, bolsos, joyería, etc.
+##### *Ocasión:* Bodas, fiestas de gala, eventos corporativos, ceremonias de graduación, fiestas informales, etc.
+##### *Estilo:* Clásico, moderno, vintage, bohemio, casual, formal, etc.
+
+#### 2. Tamaño y Ajuste
+##### *Tallas Generales:* XS, S, M, L, XL, XXL, etc.
+##### *Ajuste Específico:* Ajustado, regular, holgado.
+##### *Medidas Específicas:* Para prendas donde las tallas generales no sean suficientes, ofrecer un apartado de medidas detalladas (pecho, cintura, cadera, largo, etc.).
+
+#### 3. Condiciones del Alquiler
+##### *Disponibilidad:* Disponible ahora, reserva anticipada.
+##### *Duración del Alquiler:* Por día, fin de semana, semana, mes.
+##### *Precio:* Rango de precios, precios fijos para eventos específicos.
+
+#### 4. Sostenibilidad y Material
+##### *Material:* Algodón, lino, seda, sintéticos, etc.
+##### *Certificaciones de Sostenibilidad:* Prendas con certificaciones ecológicas o de comercio justo.
+
+#### 5. Calidad y Estado
+##### *Estado de la Prenda:* Nuevo, como nuevo, buen estado, aceptable.
+##### *Comentarios y Valoraciones:* Estrellas y comentarios de usuarios anteriores sobre la prenda.
+
+
+
 ####     2.3. SEO Tags and Meta Tags.
 ....
 ####     2.4. Searching Systems.
