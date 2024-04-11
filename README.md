@@ -181,7 +181,7 @@ Segmento Objetivo 2: María Fernández
 ####     3.2. User Task Matrix.
 
 
-BARBARA SANCHEZ
+**BARBARA SANCHEZ
 | Actividades                                                                                           | Frecuencia        | Importancia |
 |-------------------------------------------------------------------------------------------------------|-------------------|-------------|
 | Almacenar archivos o documentos relacionados con sus clases en servicios de almacenamiento en la nube. | Con Frecuencia    | Alta        |
@@ -192,7 +192,7 @@ BARBARA SANCHEZ
 | Eliminar archivos de manera permanente o temporal.                                                    | Rara vez          | Baja        |
 
 
-MARIA FERNANDEZ
+**MARIA FERNANDEZ
 | Actividades                                                                                           | Frecuencia        | Importancia |
 |-------------------------------------------------------------------------------------------------------|-------------------|-------------|
 | Almacenar archivos o documentos relacionados con sus clases en servicios de almacenamiento en la nube. | A veces           | Media       |
@@ -202,7 +202,7 @@ MARIA FERNANDEZ
 | Acceder a sus archivos almacenados en la nube desde diversos dispositivos.                             | Rara Vez          | Baja        |
 | Eliminar archivos de manera permanente o temporal.                                                    | Rara vez          | Baja        |
 
-....
+
 ####     3.3. User Journey Mapping.
 
 Segmento Objetivo 1: Barbara Sanchez 
