@@ -185,18 +185,84 @@ La causa principal del problema radica en la cultura de consumo impulsada por la
 
 ####     2.1. Antecedentes y Problemática
 
-# Antecedente:
+## Antecedente:
 El ascenso del fast fashion ha transformado la industria de la moda, ofreciendo prendas de bajo costo y alta rotación. Esta cultura de consumo efímero ha llevado a una acumulación desmesurada de ropa, especialmente para eventos especiales, exacerbando el problema del desperdicio textil y su impacto ambiental y social negativo.
 
-# Problemática:
+## Problemática:
 La presión social por lucir siempre a la moda en eventos especiales ha creado un ciclo insostenible de compra y descarte de prendas. Esto no solo genera una carga financiera para los individuos, sino que también contribuye al problema ambiental, con toneladas de ropa terminando en los vertederos cada año. Además, el modelo de negocio del fast fashion a menudo está vinculado a prácticas laborales injustas, exacerbando aún más la problemática. En resumen, el consumo desmedido en eventos especiales afecta tanto a las personas como al planeta, perpetuando la injusticia social y el deterioro ambiental.
 
 
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
-....
+
+Los usuarios se enfrentan a una presión social y cultural para lucir nuevas prendas en eventos especiales, lo que ha creado un ciclo de compra y descarte insostenible. Esta dinámica impone una carga financiera a los individuos y contribuye al problema del desperdicio textil y la contaminación ambiental.
+
+Nuestra plataforma busca ofrecer una solución sostenible y rentable al problema del consumo desmedido en eventos especiales al facilitar el alquiler de prendas. Promovemos la reutilización, la conveniencia y la conciencia ambiental, mientras creamos una comunidad comprometida con la moda sostenible. En resumen, buscamos transformar la forma en que las personas se visten para eventos especiales, promoviendo un enfoque más consciente y colaborativo hacia la moda.
+
+
 #####         **2.2.2.Lean UX Assumptions.**
-....
+
+## Business Assumptions:
+·         Existe una demanda en el mercado de soluciones tecnológicas que faciliten el alquiler de prendas y accesorios de moda.
+·         Los consumidores muestran disposición para alquilar prendas y accesorios en lugar de adquirirlos de forma definitiva
+·         Los usuarios priorizan la sostenibilidad y la reducción del desperdicio en la industria de la moda al considerar opciones de alquiler.
+·         Los usuarios buscan disponer de opciones de vestimenta específicas adecuadas para eventos y ocasiones especiales.
+·         Los propietarios de prendas y accesorios están dispuestos a ofrecer sus artículos en alquiler a través de la plataforma.
+·         Los usuarios valoran la comodidad y la variedad al seleccionar prendas y accesorios en la plataforma.
+·         La facilidad de navegación y un diseño intuitivo en la aplicación son aspectos fundamentales para su adopción por parte de los usuarios.
+·         La retroalimentación y los comentarios de los usuarios son considerados valiosos para mejorar continuamente la experiencia de la plataforma.
+·         La promoción y la visibilidad en redes sociales y eventos de moda juegan un papel crucial en la captación de usuarios.
+
+Business Outcomes:
+Reducción del exceso en la industria de la moda: EventWear tiene el potencial de disminuir la acumulación de prendas poco utilizadas en los armarios, fomentando así prácticas más sostenibles en la moda.
+
+
+Impulso de la sostenibilidad: Al optar por el alquiler en lugar de la compra, los usuarios contribuyen a reducir la demanda de producción masiva de ropa, lo que a su vez beneficia al medio ambiente.
+
+
+Acceso ampliado a prendas de calidad: La plataforma ofrece a los usuarios acceso a prendas y accesorios de alta calidad para eventos especiales sin necesidad de realizar una inversión completa en ellas.
+
+
+Experiencia personalizada: Los usuarios tienen la posibilidad de elegir entre una amplia gama de opciones para adaptar su atuendo a eventos específicos, lo que aumenta su satisfacción y confianza.
+
+
+Generación de ingresos para propietarios: Los propietarios de prendas y accesorios pueden obtener ingresos adicionales al poner sus artículos en alquiler, lo que contribuye a fomentar una economía circular.
+
+
+Promoción de la moda sostenible: EventWear puede desempeñar un papel importante como defensor de la moda sostenible, educando a los usuarios sobre las implicaciones del fast fashion y promoviendo alternativas más conscientes.
+
+User Assumptions:
+Los consumidores muestran interés en adoptar prácticas de moda más sostenibles: Los usuarios están cada vez más conscientes de la importancia de la sostenibilidad en la moda y buscan participar en un consumo más responsable.
+Existe disposición por parte de los usuarios a alquilar prendas y accesorios en lugar de comprarlos: Los consumidores reconocen el valor de la variedad y la conveniencia que ofrece el alquiler en comparación con la propiedad.
+La demanda de opciones de moda específicas para eventos es alta entre los usuarios: Los consumidores buscan opciones de moda adecuadas y apropiadas para diferentes ocasiones y eventos.
+Los propietarios de prendas y accesorios ven el alquiler como una oportunidad: Los propietarios consideran que el alquiler es una manera eficaz de aprovechar sus artículos no utilizados y generar ingresos adicionales.
+Los usuarios buscan una plataforma intuitiva y conveniente para el alquiler de moda: Los consumidores desean una experiencia de usuario fluida y sin complicaciones al utilizar la plataforma de alquiler de moda.
+
+User:
+Los usuarios potenciales que podrían utilizar la solución EventWear :
+Consumidor casual de moda: Personas que buscan opciones de vestimenta sostenibles y asequibles para eventos especiales, valorando la variedad y la responsabilidad ambiental.
+
+Propietarios de prendas y accesorios: Personas que tienen artículos de moda que desean alquilar para generar ingresos adicionales y contribuir a la economía circular.
+
+
+Asistente a eventos consciente de la moda : Personas que desean lucir bien en eventos especiales sin incurrir en altos costos y que buscan una experiencia de alquiler cómoda y personalizada.
+User Benefits:
+Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos especiales sin la carga de la propiedad, lo que ayuda a reducir el desperdicio de moda y contribuye a la sostenibilidad ambiental.
+Propietarios de prendas y accesorios: Los propietarios tienen la oportunidad de generar ingresos alquilando artículos no utilizados, al tiempo que apoyan un enfoque más sostenible en la moda.
+Asistentes a eventos: Los usuarios pueden acceder a prendas y accesorios de moda de alta calidad para eventos específicos sin la necesidad de comprar, lo que les permite ahorrar dinero y reducir el desperdicio.
+
+Feature Assumptions: 
+Interfaz Intuitiva y Accesible: Suponemos que los usuarios de EventWear prefieren una experiencia simple y sin complicaciones al explorar y alquilar prendas y accesorios. Por lo tanto, es esencial que nuestra página cuente con una interfaz de usuario intuitiva y accesible, lo que facilitará que los usuarios naveguen y seleccionen prendas de manera eficiente.
+Catálogo Variado y Actualizado: Suponemos que los usuarios valoran tener una amplia variedad de opciones de moda para elegir. Por lo tanto, es crucial mantener nuestro catálogo actualizado con una amplia gama de prendas y accesorios adecuados para diferentes tipos de eventos.
+Proceso de Alquiler Simple y Rápido: Suponemos que los usuarios prefieren un proceso de alquiler sin complicaciones. Por ende, nuestra plataforma debe ofrecer un proceso de alquiler simple y rápido, con pasos claros desde la selección hasta la finalización del pedido.
+Notificaciones y Recordatorios Efectivos: Suponemos que los usuarios aprecian las notificaciones que les ayudan a estar al tanto de fechas importantes, como la fecha del evento y la devolución de prendas. Por lo tanto, debemos incluir notificaciones y recordatorios efectivos para mantener a los usuarios informados.
+Descripciones Detalladas y Calidad Visual: Suponemos que los usuarios desean tomar decisiones informadas al alquilar prendas y accesorios. Por lo tanto, debemos proporcionar descripciones detalladas de cada artículo, incluyendo información sobre el tamaño, material y ajuste. Además, imágenes de alta calidad son esenciales para que los usuarios visualicen claramente cada prenda.
+Proceso de Devolución sin Complicaciones: Suponemos que los usuarios desean una experiencia fluida al devolver prendas al finalizar el alquiler. Por lo tanto, debemos ofrecer un proceso de devolución sencillo y claro, que incluya instrucciones claras y opciones de envío de devolución.
+Comentarios y Valoraciones de Usuarios: Suponemos que los usuarios confían en las opiniones de otros usuarios al seleccionar prendas. Por lo tanto, debemos permitir que los usuarios dejen comentarios y valoraciones sobre las prendas que han alquilado, lo que proporcionará información adicional a futuros usuarios.
+Seguridad en los Pagos y Datos: Suponemos que la seguridad de los datos y las transacciones es fundamental para los usuarios al alquilar prendas en línea. Por lo tanto, debemos implementar medidas de seguridad robustas para proteger la información financiera y personal de los usuarios.
+Soporte al Cliente Eficaz: Suponemos que los usuarios pueden tener preguntas o problemas durante su experiencia en la plataforma. Por lo tanto, debemos ofrecer opciones de soporte al cliente eficaces, como chat en vivo o asistencia por correo electrónico, para ayudar a los usuarios con sus consultas.
+
+
 #####         **2.2.3.Lean UX Hypothesis Statements.**
 ....
 #####         **2.2.4.Lean UX Canvas.**
