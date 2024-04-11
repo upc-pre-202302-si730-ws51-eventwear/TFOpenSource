@@ -937,6 +937,7 @@ Entonces el landing page le mostrara los beneficios que él puede otorgar hacer 
  
  
 ### |EP08: FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin.|
+|---|
 
 
 
