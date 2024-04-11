@@ -1094,9 +1094,11 @@ Las metaetiquetas que se usarán son:
 
 Esta etiqueta es crucial para la identificación del contenido de la página por los motores de búsqueda y aparecerá en las páginas de resultados de los motores de búsqueda (SERP).
 
-|----------------------------------------------------------------------| 
-| <title>Alquiler de Moda para Eventos Especiales | Event Wear</title> |
-|----------------------------------------------------------------------| 
+```html
+<title>Alquiler de Moda para Eventos Especiales | Event Wear</title>
+
+
+
 
 Codificación de caracteres:
 
