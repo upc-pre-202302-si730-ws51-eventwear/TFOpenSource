@@ -504,7 +504,9 @@ Segmento Objetivo 2: María Fernández
 
 ## Capítulo III: Requirements Specification
 ### 1. **To-Be Scenario Mapping.**
-....
+
+![image](Imagenes/ToBeSM.PNG)
+
 ### 2. **User Stories.**
 ....
 ### 3. **Impact Mapping.**
