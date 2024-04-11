@@ -204,44 +204,44 @@ Nuestra plataforma busca ofrecer una solución sostenible y rentable al problema
 
 ## Business Assumptions:
 
-Existe una demanda en el mercado de soluciones tecnológicas que faciliten el alquiler de prendas y accesorios de moda.
-Los consumidores muestran disposición para alquilar prendas y accesorios en lugar de adquirirlos de forma definitiva.
-Los usuarios priorizan la sostenibilidad y la reducción del desperdicio en la industria de la moda al considerar opciones de alquiler.
-Los usuarios buscan disponer de opciones de vestimenta específicas adecuadas para eventos y ocasiones especiales.
-Los propietarios de prendas y accesorios están dispuestos a ofrecer sus artículos en alquiler a través de la plataforma.
-Los usuarios valoran la comodidad y la variedad al seleccionar prendas y accesorios en la plataforma.
-La facilidad de navegación y un diseño intuitivo en la aplicación son aspectos fundamentales para su adopción por parte de los usuarios.
-La retroalimentación y los comentarios de los usuarios son considerados valiosos para mejorar continuamente la experiencia de la plataforma.
-La promoción y la visibilidad en redes sociales y eventos de moda juegan un papel crucial en la captación de usuarios.
+- Existe una demanda en el mercado de soluciones tecnológicas que faciliten el alquiler de prendas y accesorios de moda.
+- Los consumidores muestran disposición para alquilar prendas y accesorios en lugar de adquirirlos de forma definitiva.
+- Los usuarios priorizan la sostenibilidad y la reducción del desperdicio en la industria de la moda al considerar opciones de alquiler.
+- Los usuarios buscan disponer de opciones de vestimenta específicas adecuadas para eventos y ocasiones especiales.
+- Los propietarios de prendas y accesorios están dispuestos a ofrecer sus artículos en alquiler a través de la plataforma.
+- Los usuarios valoran la comodidad y la variedad al seleccionar prendas y accesorios en la plataforma.
+- La facilidad de navegación y un diseño intuitivo en la aplicación son aspectos fundamentales para su adopción por parte de los usuarios.
+- La retroalimentación y los comentarios de los usuarios son considerados valiosos para mejorar continuamente la experiencia de la plataforma.
+- La promoción y la visibilidad en redes sociales y eventos de moda juegan un papel crucial en la captación de usuarios.
 
 ## Business Outcomes:
 
-Reducción del exceso en la industria de la moda.
-Impulso de la sostenibilidad.
-Acceso ampliado a prendas de calidad.
-Experiencia personalizada.
-Generación de ingresos para propietarios.
-Promoción de la moda sostenible.
+- Reducción del exceso en la industria de la moda.
+- Impulso de la sostenibilidad.
+- Acceso ampliado a prendas de calidad.
+- Experiencia personalizada.
+- Generación de ingresos para propietarios.
+- Promoción de la moda sostenible.
 
 ## User Assumptions:
 
-Los consumidores muestran interés en adoptar prácticas de moda más sostenibles.
-Existe disposición por parte de los usuarios a alquilar prendas y accesorios en lugar de comprarlos.
-La demanda de opciones de moda específicas para eventos es alta entre los usuarios.
-Los propietarios de prendas y accesorios ven el alquiler como una oportunidad.
-Los usuarios buscan una plataforma intuitiva y conveniente para el alquiler de moda.
+- Los consumidores muestran interés en adoptar prácticas de moda más sostenibles.
+- Existe disposición por parte de los usuarios a alquilar prendas y accesorios en lugar de comprarlos.
+- La demanda de opciones de moda específicas para eventos es alta entre los usuarios.
+- Los propietarios de prendas y accesorios ven el alquiler como una oportunidad.
+- Los usuarios buscan una plataforma intuitiva y conveniente para el alquiler de moda.
 
 ## User:
 
-Consumidor casual de moda.
-Propietarios de prendas y accesorios.
-Asistente a eventos consciente de la moda.
+- Consumidor casual de moda.
+- Propietarios de prendas y accesorios.
+- Asistente a eventos consciente de la moda.
 
 ## User Benefits:
 
-Consumidores conscientes de la moda.
-Propietarios de prendas y accesorios.
-Asistentes a eventos.
+- Consumidores conscientes de la moda.
+- Propietarios de prendas y accesorios.
+- Asistentes a eventos.
 
 ## Feature Assumptions:
 
