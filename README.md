@@ -146,7 +146,7 @@ Nuestro propósito es empoderar a los usuarios para que disfruten de la moda de 
 | Adriano Sebastian Cruz Palomino (U202210697) ![image](Imagenes/integrante2.PNG)  | Mi nombre es Adriano Sebastian Cruz Palomino, tengo 19 años, soy alumno de Ingeniería de Software en la UPC, actualmente estoy cursando el 5to ciclo. Soy una persona curiosa, responsable, y comprometida con mis estudios, siempre busco aprender más y mejorar mis habilidades.                              |
 | Jair Castillo (U202211390)       ![image](Imagenes/integrante3.PNG)              | Mi nombre es Jair Castillo, estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC.Poseo habilidades intermedias en el lenguaje de programación C++. Soy una persona atenta y responsable, con capacidad para adaptarme de manera efectiva a diversos escenarios y desafíos que puedan surgir.          |
 | Tony Alexander Ramos Najar (u20211a153)  ![image](Imagenes/integrante4.PNG)      | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
-| Joaquin Antonio Cortez Quezada (u202212648)  ![image](Imagenes/integrante5.jpeg)      |  |
+| Joaquin Antonio Cortez Quezada (u202212648)  ![image](Imagenes/integrante5(1).jpeg)      | Mi nombre es Joaquín Antonio Cortez Quezada, tengo 19 años y actualmente estoy  cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, empática en cualquier ámbito de mi vida, ya sea en el aspecto académico. |
 
 
 ### 2. **Solution Profile.**
@@ -419,7 +419,7 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 - **Sexo:** Masculino
 - **Edad:** 22
 - **Ubicación:** Pueblo Libre
-- **Link:** 
+- **Link:**  [Entrevista 2](https://drive.google.com/file/d/1GfU2K-st-6Gy0K17sYU6pfJGwtfkl_bY/view?usp=sharing)
 - **Duración:** 2:50
 - **Resumen:** Nicolas suele buscar sus prendas en las marcas que ya conoce y ha probado, en pocas ocasión no ha podido encontrar la prenda deseada para un conjunto de vestimenta en específico, en estos casos tuve que cambiar por completo su idea principal de vestimenta. El mundo de la moda y vestimenta es un sector que le gusta bastante y lo sigue desde hace algunos años, considera que tiene un estilo simple y poco extravagante, aparte le gusta mantener su forma de vestir, la cual no ha cambiado en su totalidad hace más de diez años.
 
