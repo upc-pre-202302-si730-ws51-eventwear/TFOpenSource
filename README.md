@@ -246,14 +246,14 @@ Asistentes a eventos.
 ## Feature Assumptions:
 
 - Interfaz Intuitiva y Accesible.
-Catálogo Variado y Actualizado.
-Proceso de Alquiler Simple y Rápido.
-Notificaciones y Recordatorios Efectivos.
-Descripciones Detalladas y Calidad Visual.
-Proceso de Devolución sin Complicaciones.
-Comentarios y Valoraciones de Usuarios.
-Seguridad en los Pagos y Datos.
-Soporte al Cliente Eficaz
+- Catálogo Variado y Actualizado.
+- Proceso de Alquiler Simple y Rápido.
+- Notificaciones y Recordatorios Efectivos.
+- Descripciones Detalladas y Calidad Visual.
+- Proceso de Devolución sin Complicaciones.
+- Comentarios y Valoraciones de Usuarios.
+- Seguridad en los Pagos y Datos.
+- Soporte al Cliente Eficaz
 
 #####         **2.2.3.Lean UX Hypothesis Statements.**
 ....
