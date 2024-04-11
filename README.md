@@ -142,10 +142,10 @@ Nuestro propósito es empoderar a los usuarios para que disfruten de la moda de 
 
 | Nombre                           | Descripción                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Christopher Sebastian More Rondon (U202212199) | Estudiante de quinto ciclo de Ingeniería de Software. Creativo e ingenioso para resolver problemas creando programas. Cumplidor y detallista. |
-| Adriano Sebastian Cruz Palomino (U202210697)   | Estudiante de quinto ciclo de Ingeniería de Software en la UPC. Curioso, responsable y comprometido con sus estudios.                              |
-| Jair Castillo (U202211390)                     | Estudiante de quinto ciclo de Ingeniería de Software en la UPC. Habilidades intermedias en C++. Atento y adaptable a diversos desafíos.          |
-| Tony Alexander Ramos Najar                    | Estudiante de séptimo ciclo de Ingeniería de Software. Hábil en Python, Javascript y aprendiendo Angular. Responsable y con ganas de aprender. |
+| Christopher Sebastian More Rondon (U202212199) | Me llamo Christopher More, soy estudiante de quinto ciclo de Ingeniería de Software. Soy creativo e ingenioso para resolver problemas creando programas. Siempre intento completar las tareas a tiempo y asegurarme de que se encuentren bien hechas |
+| Adriano Sebastian Cruz Palomino (U202210697)   | Mi nombre es Adriano Sebastian Cruz Palomino, tengo 19 años, soy alumno de Ingeniería de Software en la UPC, actualmente estoy cursando el 5to ciclo. Soy una persona curiosa, responsable, y comprometida con mis estudios, siempre busco aprender más y mejorar mis habilidades.                              |
+| Jair Castillo (U202211390)                     | Mi nombre es Jair Castillo, estoy cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC.Poseo habilidades intermedias en el lenguaje de programación C++. Soy una persona atenta y responsable, con capacidad para adaptarme de manera efectiva a diversos escenarios y desafíos que puedan surgir.          |
+| Tony Alexander Ramos Najar (u20211a153)        | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
 
 
 ### 2. **Solution Profile.**
