@@ -1166,7 +1166,7 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 
 ####     4.1.1. *Mobile*
 
-![image](Imagenes/WireFrames/Mobile/PantallaIniciosesion.png)
+![image](Imagenes/WireFrames/Mobile/PantallaInicioSesion.png)
 <br>
 ![image](Imagenes/WireFrames/Mobile/CrearCuenta.png)
 <br>
@@ -1208,7 +1208,7 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 <br>
 ![image](Imagenes/WireFrames/Mobile/Chats-1.png)
 <br>
-![image](Imagenes/WireFrames/Mobile/Chats-3.jpg)
+![image](Imagenes/WireFrames/Mobile/Chats-3.JPG)
 <br>
 
 ####     4.1.2. *Web*
