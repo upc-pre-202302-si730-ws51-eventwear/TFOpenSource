@@ -184,7 +184,14 @@ La causa principal del problema radica en la cultura de consumo impulsada por la
 
 
 ####     2.1. Antecedentes y Problemática
-....
+
+# Antecedente:
+El ascenso del fast fashion ha transformado la industria de la moda, ofreciendo prendas de bajo costo y alta rotación. Esta cultura de consumo efímero ha llevado a una acumulación desmesurada de ropa, especialmente para eventos especiales, exacerbando el problema del desperdicio textil y su impacto ambiental y social negativo.
+
+# Problemática:
+La presión social por lucir siempre a la moda en eventos especiales ha creado un ciclo insostenible de compra y descarte de prendas. Esto no solo genera una carga financiera para los individuos, sino que también contribuye al problema ambiental, con toneladas de ropa terminando en los vertederos cada año. Además, el modelo de negocio del fast fashion a menudo está vinculado a prácticas laborales injustas, exacerbando aún más la problemática. En resumen, el consumo desmedido en eventos especiales afecta tanto a las personas como al planeta, perpetuando la injusticia social y el deterioro ambiental.
+
+
 ####     2.2. Lean UX Process
 #####         **2.2.1.Lean UX Problem Statements.**
 ....
