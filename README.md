@@ -1092,6 +1092,12 @@ Podemos promover activamente la plataforma a través de campañas de concienciac
 |**15**|**US15**|<p>**Asesoramiento sobre moda sostenible**</p><p></p>|Como usuario quiero poder tener asesoramiento sobre moda sostenible para saber cómo puedo ayudar al medio ambiente.|**5**|
 |**16**|**US16**|<p>**Recopilación de información**</p><p></p>|Como consumidor casual de la moda, quiero encontrar la información precisa para utilizar la aplicación web.|**3**|
 |**17**|**US17**|<p>**Beneficios al consumidor**</p><p></p>|Como Asistente a eventos consciente de la moda, quiero entender los beneficios que me aportara el uso de la página web.|**3**|
+|**18**|**US18**|<p>**Sección “Segmentos”**</p><p></p>|Como Asistente a eventos consciente de la moda, quiero entender los beneficios que me aportará el uso de la página web, para poder elegir con conocimiento las opciones que mejorarán mi experiencia en eventos.|**5**|
+|**19**|**US19**|<p>**Sección “Nosotros”**</p><p></p>|Como visitante interesado en conocer más sobre la empresa, quiero acceder a una sección "Nosotros" clara y bien estructurada para comprender mejor la misión, visión, y valores de la empresa, y así sentir mayor confianza y conexión con la marca.|**3**|
+|**20**|**US20**|<p>**Sección “Header”**</p><p></p>|Como usuario del sitio web, quiero que el header sea claro y fácil de navegar, para que pueda encontrar rápidamente la información o sección que busco, lo que me permitirá tener una experiencia de usuario más fluida y satisfactoria.|**3**|
+|**21**|**US21**|<p>**Sección “Contacto”**</p><p></p>|Como usuario que desea obtener más información o resolver dudas específicas, quiero acceder a una sección de contacto clara y fácil de usar, para que pueda comunicarme con la empresa de manera eficiente y sin complicaciones.|**2**|
+|**22**|**US22**|<p>**Sección “Colaboración”**</p><p></p>|Como usuario interesado en colaborar con la organización, deseo encontrar una sección en el sitio web dedicada a la colaboración, para que pueda comprender fácilmente cómo puedo contribuir, cuáles son los beneficios y cómo iniciar el proceso.|**5**|
+|**23**|**US23**|<p>**Sección “Footer”**</p><p></p>|Como usuario del sitio web, quiero que el footer ofrezca accesos directos a información relevante y recursos adicionales para mejorar mi experiencia de navegación y asegurar que encuentro fácilmente lo que necesito.	|**2**|
 
 
 ## Capítulo IV: Product Design
