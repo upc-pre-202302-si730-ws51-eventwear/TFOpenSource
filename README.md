@@ -1533,6 +1533,600 @@ Figma: Herramienta para generar gráficos, utilizada para crear los wireframes y
 
 ##### Landing Page: 
 
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/logo.png">
+    <title>Event Wear</title>
+    <link rel="stylesheet" href="styles/styles.css "> <!-- Agrega el enlace al archivo CSS externo -->
+</head>
+
+<body>
+    
+    <header class="navbar-container">
+        <div class="logo">
+            <a href="#home"><img src="assets/logo.png" alt="company logo"></a>
+        </div>
+        <nav class="navbar-list">
+            <ul>
+                <li><a href="#segment" class="navbar-link">Segmentos</a></li>
+                <li><a href="#about" class="navbar-link">Nosotros</a></li>
+                <li><a href="#contact" class="navbar-link">Contacto</a></li>
+                <li><a href="Collaboration.html" class="navbar-link">Colaboraciones</a></li>
+                <li><a href="sign_in.html" class="navbar-link">Iniciar Sesión</a></li>
+                <li><a href="sign-up.html" class="navbar-link" id="sign-in">Crear Cuenta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="home" id = "home">
+        <div class="title">
+            <h1 class="web_name">EventWear</h1>
+        </div>
+        <div class="div_web_info">
+            <p class="web_info">
+                Tu pasaporte hacia un estilo excepcional. Descubre una forma innovadora y 
+                sostenible de vestirte para eventos especiales.        </p> 
+        </div> 
+        <div class="web_image">
+            <img class="clothing_img" src="assets/comprar-talla-menos.jpg" alt="">
+        </div>       
+    </section>
+
+    <section class="segment" id = "segment">
+        <div class="web_line">
+        
+         </div>
+     
+         <div class="segment_1">
+         
+             <div class="info_segment_1">
+     
+                 <h2 class="title_segment_1">Consumidor casual de moda</h3>
+     
+                     <p>Ofrecemos una amplia gama de prendas y accesorios de moda de alta calidad, perfectos para tus ocasiones más importantes. Desde elegantes vestidos hasta accesorios, nuestra plataforma te brinda la variedad que necesitas para destacar 
+                     sin comprometer tu estilo ni tu presupuesto.
+                 </p>
+     
+                 <button class="button_segment_1">mas informacion</button>
+     
+     
+             </div>
+     
+             <div class="image_segment_1">
+                 <img src="assets/segemento1.png" alt="">
+     
+             </div>
+     
+         </div>
+     
+         <div class="web_line">
+             
+          </div>
+     
+          
+         <div class="segment_2">
+         
+             <div class="image_segment_2">
+                 <img src="assets/segemento2.png" alt="">
+     
+             </div>
+     
+     
+     
+             <div class="info_segment_2">
+     
+                 <h2 class="title_segment_2">Asistente a eventos</h3>
+     
+                     <p>Ofrecemos una experiencia de alquiler personalizada y conveniente, permitiéndote lucir espectacular sin los altos costos de la compra. Desde elegantes trajes hasta deslumbrantes accesorios, tenemos todo lo que necesitas para destacar en cualquier ocasión.
+                 </p>
+                 
+                 <button class="button_segment_2">mas informacion</button>
+     
+     
+             </div>
+     
+     
+         </div>
+         <div class="web_line">
+            
+         </div>
+    </section>
+
+    <section class="about" id="about">
+        <div class="about-container">
+            <h2 class="about-title">Acerca de nosotros</h2>
+            <br><br><br>
+            <div class="box-group">
+                <p class="text-about">
+                    <b>"Event Wear"</b>es una plataforma innovadora que revoluciona la forma en que las personas se visten para eventos especiales al ofrecer una alternativa sostenible al fast fashion. Conectando a usuarios que desean lucir prendas únicas y de calidad con aquellos que tienen piezas para alquilar, Event Wear promueve la reutilización y el intercambio, reduciendo así el desperdicio de moda.
+                    Nuestro propósito es empoderar a los usuarios para que disfruten de la moda de manera consciente, fomentando la comunidad, la creatividad y la responsabilidad social a través de la moda sostenible. Event Wear no solo ofrece una solución práctica y elegante para eventos especiales, sino que también contribuye positivamente al medio ambiente y a la sociedad al cambiar la forma en que consumimos moda.
+                </p>
+                <img src="assets/integrantes.png" class ="box-img1" alt="referencial image">
+            </div>
+        </div>
+
+    </section>
+    
+    <section class="contact" id="contact">
+        <div class="contact-container">
+            <h2 class="contact-title">Contáctanos</h2>
+            <form id="contact-form" action="procesar_formulario.php" method="post">
+                <div class="form-group">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="nombre" required aria-required="true" placeholder="Introduce tu nombre">
+                </div>
+                <div class="form-group">
+                    <label for="email">Correo electrónico:</label>
+                    <input type="email" id="email" name="email" required aria-required="true" placeholder="Introduce tu correo electrónico">
+                </div>
+                <div class="form-group">
+                    <label for="mensaje">Mensaje:</label>
+                    <textarea id="mensaje" name="mensaje" required aria-required="true" placeholder="Introduce tu mensaje"></textarea>
+                </div>
+                <button type="submit">Enviar</button>
+            </form>
+            <div id="mensaje-exito" style="display: none;">
+                <p>Su consulta se ha enviado exitosamente. nos contactaremos con usted </p>
+            </div>
+        </div>
+    </section>
+   
+
+    <footer>
+        <div class="footer-container">
+            <h3>EventWear</h3>
+            <div class="footer-info">
+                <p class="footer-info-items">
+                    <a href="#segment" class="footer-link">Segmentos</a>
+                    <a href="#home" class="footer-link">Inicio</a>
+                    <a href="#about" class="footer-link">Nosotros</a>
+                    <a href="#contact" class="footer-link">Contacto</a>
+                    <a href="#collaborations" class="footer-link">Colaboraciones</a>
+                </p>
+            </div>
+            <h3>Síguenos en:</h3>
+            <div class="footer-social">
+                <p class="footer-social-items">
+                    <a class="social-link">Facebook</a>
+                    <a class="social-link">Instagram</a>
+                    <a class="social-link">Twitter</a>
+                </p>
+            </div>
+            <br>
+            <p>&copy; 2024 EventWear. Todos los derechos reservados.</p> 
+        </div>
+    </footer>
+    
+</body>
+
+</html>
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/102090663/a8425c78-7f7c-41b5-809b-4d6fabc40e9b)
+
+```
+
+### STYLE CSS:
+
+```html
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100..900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.start {
+    background-color: #87BB66;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.home{
+    padding-top: 70px;
+}
+.b_collaboration,
+.b_about_us,
+.b_sign_in {
+    background-color: #527c7b;
+    font-family: "M PLUS 1", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    font-size: 15px;
+    margin-left: auto;
+    width: 130px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+
+.title {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.web_name {
+    font-family: "M PLUS 1", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.web_info {
+    font-family: "M PLUS 1", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    margin-left: 00px;
+}
+
+.div_web_info {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.web_image {
+    text-align: center;
+    background-color: #527c7b;
+    margin: auto;
+    width: auto;
+    height: 700px;
+    margin-bottom: 60px;
+}
+
+.clothing_img {
+    margin-left: 30px;
+    margin-top: 50px;
+    width: auto;
+    height: 620px;
+    overflow: hidden;
+}
+
+.web_line {
+    background-color: #527c7b;
+    margin: auto;
+    width: auto;
+    height: 7px;
+    margin-bottom: 78px;
+}
+
+.segment_1{
+
+    display: flex;
+}
+.title_segment_1{
+    font-size: 30px;
+    margin-bottom: 66px;
+}
+.info_segment_1{
+
+    width: 785px;
+    font-family: "M PLUS 1", sans-serif;
+    font-size: 20px;
+    margin-left: 280px;
+    text-align: center;
+}
+
+.button_segment_2,
+.button_segment_1{
+    background-color: #527c7b;
+    font-family: "M PLUS 1", sans-serif;
+    color: white;
+    font-size: 15px;
+
+    margin-left: auto;
+    width: 160px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin-right: 300px;
+    margin-top: 80px;
+
+}
+
+.image_segment_1{
+    margin-left: 140px;
+    margin-bottom: 80px;
+}
+
+
+.segment_2{
+
+    display: flex;
+}
+
+.title_segment_2{
+    font-size: 30px;
+    margin-bottom: 66px;
+}
+.info_segment_2{
+
+    width: 785px;
+    font-family: "M PLUS 1", sans-serif;
+    font-size: 20px;
+    margin-left: 230px;
+    text-align: center;
+   
+}
+
+.image_segment_2{
+
+    margin-left: 260px;
+    margin-bottom: 100px;
+
+
+}
+
+.about {
+    margin-bottom: 100px;
+    
+}
+.service-title, .about-title{
+    margin-top: 3rem;
+    font-size: 180%;
+}
+
+.service-subtitle, .about-subtitle{
+    font-size: 160%;
+    margin-bottom: 2rem;
+}
+
+.about-title, .about-subtitle{
+    margin-left: 16%;
+}
+
+.about-container{
+    text-align: justify;
+}
+.text-about{
+    font-size: 130%;
+    width: 60%;
+}
+.box-group{
+    display: flex;
+    justify-content:center;
+}
+
+
+.contact-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    background-color: #87BB66;
+    color: #ffffff;
+    padding: 50px 0;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-title {
+    margin-bottom: 30px;
+    font-size: 2em;
+    color: #ffffff;
+}
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+.box-img1{
+    margin-left: 20px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+    border: 2px solid transparent color(0, 0, 0, 0.5);
+    transition: border-color 0.3s;
+    width: 15%;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 80%;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+    color: #555555;
+    font-size: 1em;
+    transition: border-color 0.3s; 
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    border-color: #333333;
+}
+
+textarea {
+    height: 150px;
+    resize: vertical;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333333;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    font-size: 1em;
+}
+
+button[type="submit"]:hover,
+button[type="submit"]:focus {
+    background-color: #555555;
+    color: #ffffff;
+}
+
+.navbar-container{
+    position:  fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    transition: 0.7s;
+    z-index: 3;
+    padding: 0;
+    background-color: #87BB66;
+    color: #ffffff;
+    text-decoration: none;
+    transition: all 0.2s linear;
+    height: 85px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.down{
+    background: rgba(191, 44, 56, .5);
+}
+
+.navbar-container:hover {
+    background-color: #87BB66; 
+}
+
+header .logo{
+    cursor: pointer;
+}
+
+header .logo img{
+    padding-left: 60px;
+    height: 80px;
+    width: auto;
+    transition: all 0.3s;
+}
+
+header .logo img:hover{
+    transform: scale(1.2);
+}
+
+header .navbar-list{
+    list-style: none;
+}
+
+header .navbar-list li{
+    display: inline-block;
+    padding: 0 20px;    
+}
+
+header .navbar-list li:hover{
+    transform: scale(1.1);
+}
+
+header .navbar-list a{
+    font-size: 700;
+    color: #eceff1;
+    text-decoration: none;    
+}
+
+header .navbar-list li a:hover{
+    color: #333333;
+}
+.signin-logo{
+    width: 500px;
+    height: 500px;
+     margin-top: 50px;
+}
+
+.signin-box{
+    background-color: #296900B2;
+    text-align: center;
+    border-radius: 23px;
+    margin-right: 33%;
+    margin-left: 33%;
+    margin-bottom: 150px;
+}
+
+.signin-buttons{
+    background-color: #F1F1F1;
+    border-radius: 45px;
+    width: 55%;
+    height: 60px;
+    margin: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#sign-in{
+    padding: 15px 50px;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 50px;
+}
+
+.footer-container{
+    background-color: #87BB66;
+    color: #ffffff;
+    text-align: center;
+    padding: 50px 0;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+.footer-container a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.footer-container p{
+    margin: 0;
+}
+.footer-info {        
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-info-items{       
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    width: 50%;
+}
+.footer-social{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-social-items{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    width: 50%;
+}
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/102090663/bb83f09b-771f-4df1-a588-3650ad65b856)
+
+```
+
+
 ####     1.3. Source Code Style Guide & Conventions.
 
 Aquí tienes un ejemplo de cómo podría ser el Source Code Style Guide & Coding Conventions para diferentes lenguajes basado en la descripción proporcionada:
