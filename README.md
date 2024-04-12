@@ -1423,8 +1423,10 @@ En el marco de Scrum, un Sprint es un periodo breve y definido durante el cual u
 | Sprint # | Date | Time | Location | Prepared By | Attendees |
 | --- | --- | --- | --- | --- | --- |
 | 1   | 29/03/2024 | 09:00 PM | Reunion virtual mediante aplicación Google Meet | Jair Castillo | Alexander Castillo, Christopher More,<br><br>Adriano Cruz,<br><br>Joaquin Cortez,<br><br>Ramos Tony |
-| Sprint 1 Goal |     |     |     | Sprint 1 Velocity | Sum of Story Points |
-| Elaborar y diseñar una landing page atractiva e informativa para la aplicación Event Wear     |     |     |     |     |
+
+| Sprint 1 Goal | Sprint 1 Velocity | Sum of Story Points |
+| --- | --- | --- |
+| Elaborar y diseñar una landing page atractiva e informativa para la aplicación Event Wear|     |     |
 
 #####         **2.1.2. Sprint Backlog 1.**
 ....
