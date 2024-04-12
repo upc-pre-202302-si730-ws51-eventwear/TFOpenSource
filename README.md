@@ -1431,19 +1431,47 @@ En el marco de Scrum, un Sprint es un periodo breve y definido durante el cual u
 #####         **2.1.2. Sprint Backlog 1.**
 ....
 #####         **2.1.3. Development Evidence for Sprint Review.**
-....
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| <https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage> | Main | e1bb070 | chore: initial commit | chore: initial commit | 10/04/2024 |
+|     |     | 1c8dc6e | index.html | index.html | 10/04/2024 |
+|     |     | 62b5788 | Update styles.css | Update styles.css | 11/04/2024 |
+|     |     | 4b0e3d9 | Update index.html | Update index.html | 11/04/2024 |
+|     |     | 2edae82 | Update index.html | Update index.html | 11/04/2024 |
+|     |     | 960ed85 | Update styles.css | Update styles.css | 11/04/2024 |
+|     |     | f60021c | Update styles.css | Update styles.css | 11/04/2024 |
+|     |     | 56052c0 | feat(div): implemented segment 1 in body | feat(div): implemented segment 1 in body | 11/04/2024 |
+|     |     | afad75d | feat(div): implemented segment 2 in body | feat(div): implemented segment 2 in body | 11/04/2024 |
+|     |     | cf8bdda | feat(footer): implemented footer | feat(footer): implemented footer | 11/04/2024 |
+|     |     | e9b6ccc | feat(style): implemented segment 1 styles | feat(style): implemented segment 1 styles | 11/04/2024 |
+|     |     | 0ce1e33 | feat(style): implemented footer and segment 2 styles | feat(style): implemented footer and segment 2 styles | 11/04/2024 |
+|     |     | 9a7b2b0 | agregue en el html el acerca de nosotros | agregue en el html el acerca de nosotros | 11/04/2024 |
+|     |     | 5aacc38 | feat: add about us | feat: add about us | 11/04/2024 |
+|     |     | 8fd187e | Feat: add about us and contact | Feat: add about us and contact | 11/04/2024 |
+|     |     | ad98d1b | feat: added SignUp | feat: added SignUp | 11/04/2024 |
+|     |     | a3e45da | Update sign_in.html | Update sign_in.html | 11/04/2024 |
+|     |     | 9867638 | Update styles.css | Update styles.css | 11/04/2024 |
+|     |     | 7b68982 | feat(header): redisign the header | feat(header): redisign the header | 11/04/2024 |
+|     |     | 5c5e4dc | feat(sign-up): add image to sign up page | feat(sign-up): add image to sign up page | 11/04/2024 |
+|     |     | 99663d2 | feat: Add breadcrumbs to the header | feat: Add breadcrumbs to the header | 11/04/2024 |
+|     |     | 6138b16 | feat: add title "Event Wear" to index.html and sign_in.html | feat: add title "Event Wear" to index.html and sign_in.html | 11/04/2024 |
+
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
 ....
 #####         **2.1.5. Execution Evidence for Sprint Review.**
-....
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios. 
 #####         **2.1.6. Services Documentation Evidence for Sprint Review.**
 ....
 #####         **2.1.7. Software Deployment Evidence for Sprint Review.**
 ....
 #####         **2.1.8. Team Collaboration Insights during Sprint.**
-....
-
-
+| **Alumno** | **Actividad** |
+| --- | --- |
+| Alexander Jair Castillo Castillo | Implementación de la sección nosotros y contactanos |
+| Christopher Sebastian More Rondon | Implementación de la barra de navegación |
+| Adriano Sebastian Cruz Palomino | Implementación del footer y de la barra de navegación |
+| Joaquin Antonio Cortez Quezada | Implementación de segmentos y el footer |
+| Ramos Najar Tony Alenxander | Implementación de colaboración |
 
 ## Conclusiones
 ....
