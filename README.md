@@ -1423,13 +1423,13 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 
-![image](Imagenes/Diagrams/ClassDiagram)
+![image](Imagenes/Diagrams/ClassDiagram.png)
 
 ####     7.2. Class Dictionary.
 ....
 ### 8. **Database Design.**
 ####     8.1. Database Diagram.
-![image](Imagenes/Diagrams/DatabaseDiagram)
+![image](Imagenes/Diagrams/DatabaseDiagram.png)
 
 
 
