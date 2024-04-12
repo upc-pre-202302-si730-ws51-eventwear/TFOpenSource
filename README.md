@@ -419,9 +419,29 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 - **Sexo:** Masculino
 - **Edad:** 22
 - **Ubicación:** Pueblo Libre
-- **Link:**  [Entrevista 2](https://drive.google.com/file/d/1GfU2K-st-6Gy0K17sYU6pfJGwtfkl_bY/view?usp=sharing)
+- **Link:**  [Entrevista 3](https://drive.google.com/file/d/1GfU2K-st-6Gy0K17sYU6pfJGwtfkl_bY/view?usp=sharing)
 - **Duración:** 2:50
 - **Resumen:** Nicolas suele buscar sus prendas en las marcas que ya conoce y ha probado, en pocas ocasión no ha podido encontrar la prenda deseada para un conjunto de vestimenta en específico, en estos casos tuve que cambiar por completo su idea principal de vestimenta. El mundo de la moda y vestimenta es un sector que le gusta bastante y lo sigue desde hace algunos años, considera que tiene un estilo simple y poco extravagante, aparte le gusta mantener su forma de vestir, la cual no ha cambiado en su totalidad hace más de diez años.
+
+  
+#### Entrevista 4:
+- **Segmento 2**
+- **Sexo:** Masculino
+- **Edad:** 21
+- **Ubicación:** San Martin de Porres
+- **Link:** [Entrevista_4](https://drive.google.com/file/d/1uICts9eN3u54qhFvYnL4gfSg4NDyBg10/view?usp=sharing)
+- **Duración:** 
+
+
+#### Entrevista 5:
+- **Segmento 2**
+- **Sexo:** Femenino
+- **Edad:** 25
+- **Ubicación:** Ate Vitarte
+- **Link:** [Entrevista_5](https://youtu.be/QXD-cuAbJRE)
+- **Duración:** 3:15
+- **Resumen:**
+La gerente de marketing de diseño nos comenta que esta al tanto de la moda y que ella siempre buscar vestir elegante y a acorde con la moda actual, tambien nos da entender que está dispuesta a probar moda que conlleve un menor impacto con el ambiente. Considera que la moda es un estilo de vida debido a que es nuestro presentar a cada sitio que vayamos
 
 
 
@@ -440,6 +460,11 @@ En la entrevista, Bárbara Quezada mencionó su participación en el alquiler de
 #### Análisis Entrevista 3:
 
 Nicolas prefiere buscar sus prendas en marcas que ya conoce y ha probado. Aunque rara vez no ha podido encontrar la prenda deseada para un conjunto específico, en esos casos ha tenido que cambiar por completo su idea original de vestimenta. Tiene un gran interés en el mundo de la moda y la vestimenta desde hace años, y considera que su estilo es simple y poco extravagante. Ha mantenido su forma de vestir durante más de diez años sin cambios significativos.
+
+#### Análisis Entrevista 5:
+
+Sandy, La gerente de marketing de diseño parece tener una perspectiva sofisticada y consciente de la moda. Su interés en vestir elegante y seguir las tendencias actuales sugiere que está bien informada sobre el mundo de la moda. Su disposición a probar moda que tenga un menor impacto ambiental muestra una preocupación por la sostenibilidad, lo cual es cada vez más importante en la industria de la moda. Al considerar la moda como un estilo de vida y una forma de presentarse en diferentes lugares, demuestra una comprensión profunda de cómo la moda puede influir en la percepción de uno mismo y en la forma en que se es percibido por los demás. Esto sugiere que la gerente de marketing de diseño tiene una mentalidad abierta y está dispuesta a adaptarse a nuevas ideas y conceptos en la moda.
+Además, su enfoque en la moda como un estilo de vida refleja una conexión emocional con la ropa y cómo esta puede expresar la identidad y la personalidad. Al ver la moda de esta manera, es probable que la gerente de marketing de diseño tenga una sensibilidad especial hacia la estética y la creatividad en su trabajo. Su actitud receptiva hacia la moda sostenible también sugiere que podría estar interesada en promover valores éticos y responsables en la empresa. En resumen, la gerente de marketing de diseño parece ser una líder consciente de la moda, con una visión que va más allá de lo superficial, y que podría ser una fuente valiosa de inspiración y dirección para la empresa en términos de estilo y valores
 
 
 ### 3. **Needfinding.**
