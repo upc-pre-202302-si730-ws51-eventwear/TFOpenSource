@@ -2128,7 +2128,7 @@ header .navbar-list li a:hover{
 
 ####     1.3. Source Code Style Guide & Conventions.
 
-Aquí tienes un ejemplo de cómo podría ser el Source Code Style Guide & Coding Conventions para diferentes lenguajes basado en la descripción proporcionada:
+El Source Code Style Guide & Coding Conventions para diferentes lenguajes basado en la descripción proporcionada:
 
 #### **HTML:**
 - Nombres de elementos y atributos en inglés.
@@ -2164,7 +2164,33 @@ Aquí tienes un ejemplo de cómo podría ser el Source Code Style Guide & Coding
 
 
 ####     1.4. Software Deployment Configuration.
-....
+
+
+La configuración del despliegue de la solución "Event Wear":
+
+#### Software Deployment Configuration:
+
+##### *1.  Landing Page :*
+   - Los archivos estáticos (HTML, CSS, imágenes) se almacenan en un repositorio de código fuente, como GitHub.
+   - Se utiliza un sistema de integración continua (CI) como GitHub Actions o Travis CI para automatizar el proceso de despliegue.
+   - Los cambios en el repositorio de código fuente desencadenan automáticamente la construcción y el despliegue de la Landing Page en el entorno de producción.
+
+##### *2.  Web Services :*
+   - Los servicios web se despliegan en un entorno de ejecución de aplicaciones como AWS .
+   - El código fuente se almacena en un repositorio de control de versiones, como GitHub.
+   - Se utiliza un sistema de CI/CD para automatizar las pruebas y el despliegue de los servicios.
+   - Los cambios en el repositorio de código desencadenan la construcción, las pruebas y el despliegue de los servicios en el entorno de producción.
+
+##### *3.  Frontend Web Applications :*
+   - Las aplicaciones web frontend se despliegan en un servidor de aplicaciones, como AWS EC2 o Heroku.
+   - El código fuente se almacena en un repositorio de control de versiones, como GitHub.
+   - Se utiliza un sistema de CI/CD para automatizar la construcción, las pruebas y el despliegue de las aplicaciones frontend.
+   - Los cambios en el repositorio de código desencadenan automáticamente la construcción y el despliegue de las aplicaciones en el entorno de producción.
+
+Con esos pasos, se podrá lograr un correcto despliegue  de cada uno de los productos digitales en la solución "Event Wear".
+
+
+
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
