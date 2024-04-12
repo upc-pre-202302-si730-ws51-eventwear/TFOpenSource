@@ -1419,7 +1419,13 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
-....
+En el marco de Scrum, un Sprint es un periodo breve y definido durante el cual un equipo completa el trabajo necesario para lograr el objetivo principal del proyecto. Para el desarrollo de la aplicación Event Wear, se decidió dividir el proyecto en cuatro sprints de dos semanas cada uno. El Sprint #1 comenzó el 29/04/2024, y su objetivo es desarrollar una landing page llamativa para Event Wear que atraiga a los visitantes y comunique claramente los principales beneficios del producto.
+| Sprint # | Date | Time | Location | Prepared By | Attendees |
+| --- | --- | --- | --- | --- | --- |
+| 1   | 29/03/2024 | 09:00 PM | Reunion virtual mediante aplicación Google Meet | Jair Castillo | Alexander Castillo, Christopher More,<br><br>Adriano Cruz,<br><br>Joaquin Cortez,<br><br>Ramos Tony |
+| Sprint 1 Goal |     |     |     | Sprint 1 Velocity | Sum of Story Points |
+| Elaborar y diseñar una landing page atractiva e informativa para la aplicación Event Wear     |     |     |     |     |
+
 #####         **2.1.2. Sprint Backlog 1.**
 ....
 #####         **2.1.3. Development Evidence for Sprint Review.**
