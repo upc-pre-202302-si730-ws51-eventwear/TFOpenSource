@@ -1415,11 +1415,17 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ....
 ### 6. **Domain-Driven Software Architecture.**
 ####     6.1. Software Architecture Context Diagram.
-....
+
+![image](Imagenes/DDD/ContextD.png)
+
 ####     6.2. Software Architecture Container Diagrams.
-....
+
+![image](Imagenes/DDD/ContainerD.png)
+
 ####     6.3. Software Architecture Components Diagrams.
-....
+
+![image](Imagenes/DDD/ComponentD.png)
+
 ### 7. **Software Object-Oriented Design.**
 ####     7.1. Class Diagrams.
 
