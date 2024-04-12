@@ -1473,6 +1473,10 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 | Joaquin Antonio Cortez Quezada | Implementación de segmentos y el footer |
 | Ramos Najar Tony Alenxander | Implementación de colaboración |
 
+![image](Imagenes/Team-Collaboration-Insight-Sprint1.jpg)
+
+![image](Imagenes/Team-Collaboration-Insight-Sprint1-Contributors.jpg)
+
 ## Conclusiones
 ....
 
