@@ -1426,7 +1426,73 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ![image](Imagenes/Diagrams/ClassDiagram.png)
 
 ####     7.2. Class Dictionary.
-....
+
+#### **Transacción**
+##### Atributos:
+-monto (int): Representa el monto de la transacción.
+##### Funciones:
+-obtener_monto(): float: Devuelve el monto de la transacción como un número de punto flotante.
+-establecer_monto(monto: float): void: Establece el monto de la transacción.
+
+#### **Categoría**
+##### Atributos:
+-nombre (int): Almacena el nombre de la categoría.
+-totalPrendas (int): Almacena el número total de prendas en la categoría.
+##### Funciones:
+-obtener_nombre_categoría(): void: Devuelve el nombre de la categoría.
+-mostrar_categorías(): void: Muestra las categorías disponibles.
+
+#### **Publicación**
+##### Atributos:
+-código (int): Almacena el código de la publicación.
+-costo (float): Almacena el costo de alquiler de la prenda.
+-valoración (float): Almacena la valoración de la publicación.
+-comentarios (varchar): Almacena los comentarios de la publicación.
+-arrendador (Usuario): Almacena el usuario que publicó la prenda.
+-prenda (Prenda): Almacena la prenda que se publica.
+##### Funciones:
+-agregar_publicación(): void: Agrega una nueva publicación.
+-compartir_redes_sociales(): void: Comparte la publicación en redes sociales.
+-agregar_favoritos(): void: Agrega la publicación a los favoritos del usuario.
+-agregar_al_carro(): void: Agrega la publicación al carrito de compras.
+
+#### **Usuario**
+##### Atributos:
+-dni (int): Almacena el DNI del usuario.
+-correo (varchar): Almacena el correo electrónico del usuario.
+-nombre (varchar): Almacena el nombre del usuario.
+-apellido (varchar): Almacena el apellido del usuario.
+-número (int): Almacena el número de teléfono del usuario.
+-suscripción (Suscripción): Almacena la suscripción del usuario.
+##### Funciones:
+-iniciar_sesiónCorreo(): void: Inicia sesión del usuario con su correo electrónico.
+-iniciar_sesiónGoogle(): void: Inicia sesión del usuario con su cuenta de Google.
+
+#### **Alquiler**
+##### Atributos:
+-código (int): Almacena el código del alquiler.
+-costo_total (float): Almacena el costo total del alquiler.
+-publicación (Publicación): Almacena la publicación del alquiler.
+-fecha (date): Almacena la fecha de inicio del alquiler.
+-estado (varchar): Almacena el estado del alquiler.
+-prenda (Prenda): Almacena la prenda alquilada.
+##### Funciones:
+-agregar_publicación(): void: Agrega una nueva publicación.
+-actualizar_estado_alquiler(): void: Actualiza el estado del alquiler.
+-calcular_costo_alquiler(): void: Calcula el costo total del alquiler.
+-registrar_devolución(): void: Registra la devolución de la prenda.
+
+#### **Envío**
+##### Atributos:
+-fechaEntrega (int): Almacena la fecha de entrega del envío.
+-dirección (varchar): Almacena la dirección de entrega del envío.
+-estadoSeguimiento (varchar): Almacena el estado de seguimiento del envío.
+##### Funciones:
+-establecer_fecha_entrega(): void: Establece la fecha de entrega del envío.
+-obtener_dirección(): string: Obtiene la dirección de entrega del envío.
+-cambiar_estado_seguimiento(): void: Cambia el estado de seguimiento del envío.
+
+
 ### 8. **Database Design.**
 ####     8.1. Database Diagram.
 ![image](Imagenes/Diagrams/DatabaseDiagram.png)
