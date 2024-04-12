@@ -1415,6 +1415,10 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 
 Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una herramienta diseñada para brindar una experiencia excepcional en moda consciente. Descubre cómo nuestra plataforma te permite acceder fácilmente a prendas y accesorios sostenibles, contribuyendo así a un estilo de vida más ético y respetuoso con el medio ambiente. Sumérgete en esta demostración y explora las diversas funcionalidades que hemos desarrollado para ofrecerte una experiencia de usuario única.
 
+![image](Imagenes/Protothype.png)
+
+[Figma](https://www.figma.com/proto/SGc4uyOlC5goPZhxDNM8aN/EventWear-Publico?type=design&node-id=632-1744&t=8mcehiMqS566CXXz-1&scaling=min-zoom&page-id=10%3A2&starting-point-node-id=632%3A1744&mode=design)
+
 ### 6. **Domain-Driven Software Architecture.**
 ####     6.1. Software Architecture Context Diagram.
 
