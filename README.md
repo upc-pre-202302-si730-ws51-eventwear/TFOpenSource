@@ -1412,7 +1412,9 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ####     4.4. Web Applications User Flow Diagrams.
 ....
 ### 5. **Web Applications Prototyping.**
-....
+
+Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una herramienta diseñada para brindar una experiencia excepcional en moda consciente. Descubre cómo nuestra plataforma te permite acceder fácilmente a prendas y accesorios sostenibles, contribuyendo así a un estilo de vida más ético y respetuoso con el medio ambiente. Sumérgete en esta demostración y explora las diversas funcionalidades que hemos desarrollado para ofrecerte una experiencia de usuario única.
+
 ### 6. **Domain-Driven Software Architecture.**
 ####     6.1. Software Architecture Context Diagram.
 
