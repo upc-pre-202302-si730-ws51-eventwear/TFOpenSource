@@ -1514,11 +1514,62 @@ Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una h
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 1. Software Configuration Management.
 ####     1.1. Software Development Environment Configuration.
-....
+
+### **Project Management:**
+WhatsApp: Aplicación de mensajería usada para comunicarnos y coordinar el avance del trabajo
+Github: Plataforma en donde se alojan repositorios para desarrollo de software. Usada para almacenar los archivos del proyecto.
+
+### **Requirements Management:**
+Google drive: Plataforma para almacenar archivos, en donde se subieron videos de las entrevistas y avances del trabajo.
+Miro: Espacio de trabajo utilizado para crear gráficos.
+Structurizr: Página para generar diagramas mediante código, utilizada para los diagramas de contexto, contenedores y componentes.
+Vertabello: Herramienta para diseñar de manera visual bases de datos.
+
+### **Product UX/UI Design:**
+Figma: Herramienta para generar gráficos, utilizada para crear los wireframes y mockups del landing page.
+
+
 ####     1.2. Source Code Management.
-....
+
+##### Landing Page: 
+
 ####     1.3. Source Code Style Guide & Conventions.
-....
+
+Aquí tienes un ejemplo de cómo podría ser el Source Code Style Guide & Coding Conventions para diferentes lenguajes basado en la descripción proporcionada:
+
+#### **HTML:**
+- Nombres de elementos y atributos en inglés.
+- Utilización de guiones bajos para la separación de palabras en IDs y clases.
+- Adoptar convenciones estándares para la estructura del HTML (como se describe en "HTML Style Guide and Coding Conventions" y "Google HTML/CSS Style Guide").
+
+#### **CSS:**
+- Nombres de clases y variables en inglés.
+- Utilización de guiones bajos o notación camelCase para nombres de clases y IDs.
+- Ordenar las propiedades CSS de manera lógica y coherente.
+- Adoptar convenciones estándares para el formato y la estructura del CSS (como se describe en "Google HTML/CSS Style Guide").
+
+#### **JavaScript:**
+- Nombres de variables, funciones y métodos en inglés.
+- Utilización de notación camelCase para nombres de variables y funciones.
+- Comentarios en el código para explicar su funcionalidad.
+- Adoptar convenciones estándares para el formato y la estructura del JavaScript (como se describe en "Google JavaScript Style Guide").
+
+#### **TypeScript:**
+- Seguir las mismas convenciones que para JavaScript.
+- Utilización de TypeScript para tipado estático y mejoras en la escritura de código.
+- Adoptar convenciones estándares para el formato y la estructura del TypeScript (como se describe en "Google TypeScript Style Guide").
+
+#### **Java:**
+- Nombres de clases, métodos y variables en inglés.
+- Utilización de notación camelCase para nombres de variables y métodos, y PascalCase para nombres de clases.
+- Seguir las convenciones de codificación estándar de Java (como se describe en "Google Java Style Guide" y "Spring Boot Features").
+
+#### **Gherkin (para archivos .feature):**
+- Escribir escenarios de forma clara y legible utilizando lenguaje natural.
+- Utilizar palabras clave como Given, When, Then para estructurar los pasos de los escenarios.
+- Adoptar convenciones estándares para escribir especificaciones Gherkin (como se describe en "Gherkin Conventions for Readable Specifications").
+
+
 ####     1.4. Software Deployment Configuration.
 ....
 ### 2. Landing Page, Services & Applications Implementation.
