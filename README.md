@@ -1707,7 +1707,7 @@ Figma: Herramienta para generar gráficos, utilizada para crear los wireframes y
 </body>
 
 </html>
-![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/102090663/a8425c78-7f7c-41b5-809b-4d6fabc40e9b)
+
 
 ```
 
@@ -2122,7 +2122,6 @@ header .navbar-list li a:hover{
     margin-top: 20px;
     width: 50%;
 }
-![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/102090663/bb83f09b-771f-4df1-a588-3650ad65b856)
 
 ```
 
