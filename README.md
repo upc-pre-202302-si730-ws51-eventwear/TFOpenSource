@@ -407,6 +407,8 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 - **Resumen:** El entrevistado menciona comprar en su mayoría en tiendas grandes, pero que suele tener problemas para encontrar ropa del color que desea y de buena calidad. Además, menciona no asistir a eventos sociales muy frecuentemente, y que solo estaría interesado en alquilar para eventos especiales.
 
 #### Entrevista 2:
+- **Entrevista segmento 1**
+- **Nombre:** Barbara Quezada
 - **Sexo:** Femenino
 - **Edad:** 19 años
 - **Ubicación:** San Juan de Lurigancho
@@ -415,7 +417,8 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 - **Resumen:** En la entrevista, Bárbara Quezada compartió sus experiencias en alquiler de venta, destacando la importancia de la preparación y la confianza en sí misma. Señaló que al enfrentar diversas compras, se brindó la oportunidad de aprender y mejorar sus habilidades de comunicación. Además, expresó su aprecio por las plataformas que ofrecen alquiler de ropas, considerándose útiles para familiarizarse con el proceso de facilitar la búsqueda de ropa.
 
 #### Entrevista 3:
-- **Segmento 2**
+- **Entrevista segmento 1**
+- **Nombre:** Nicolas
 - **Sexo:** Masculino
 - **Edad:** 22
 - **Ubicación:** Pueblo Libre
@@ -425,16 +428,19 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 
   
 #### Entrevista 4:
-- **Segmento 2**
+- **Entrevista segmento 2**
+- **Nombre:** Diego
 - **Sexo:** Masculino
 - **Edad:** 21
 - **Ubicación:** San Martin de Porres
 - **Link:** [Entrevista_4](https://drive.google.com/file/d/1uICts9eN3u54qhFvYnL4gfSg4NDyBg10/view?usp=sharing)
 - **Duración:** 
+- **Resumen:** Diego, un estudiante activo en la escena social, enfrenta retos al buscar ropa que no solo se ajuste a su color preferido y a sus proporciones, sino que también se adapte a los diferentes estilos requeridos por cada contexto social en el que participa. Esta búsqueda de versatilidad y ajuste personalizado lo lleva a explorar diversas tiendas en centros comerciales, aunque admite que no siempre encuentra lo que necesita. Además, Diego menciona que su elección de vestimenta varía significativamente según la ocasión, desde atuendos formales para galas hasta ropa más casual para encuentros informales con amigos.
 
 
 #### Entrevista 5:
-- **Segmento 2**
+- **Entrevista segmento 2**
+- **Nombre:** Sandy
 - **Sexo:** Femenino
 - **Edad:** 25
 - **Ubicación:** Ate Vitarte
@@ -443,6 +449,17 @@ Mostrar a nuevos arrendatarios: La página principal tendrá la opción de mostr
 - **Resumen:**
 La gerente de marketing de diseño nos comenta que esta al tanto de la moda y que ella siempre buscar vestir elegante y a acorde con la moda actual, tambien nos da entender que está dispuesta a probar moda que conlleve un menor impacto con el ambiente. Considera que la moda es un estilo de vida debido a que es nuestro presentar a cada sitio que vayamos
 
+#### Entrevista 6:
+
+- **Segmento 2**
+- **Nombre:** Carolina Zegarra
+- **Sexo:** Femenino
+- **Edad:** 25
+- **Ubicación:** San Luis
+- **Link:** [Entrevista_5](https://drive.google.com/file/d/1wq0hFeGGGvq6rTnkG6_Uxs5jesMxPB-n/view?usp=sharing)
+- **Duración:** 2:00
+- **Resumen:**
+En la entrevista, Carolina Zegarra compartió sus experiencias en alquiler de venta, destacando la importancia de la preparación y la confianza en sí misma. Señaló que al enfrentar diversas compras, se brindó la oportunidad de aprender y mejorar sus habilidades de comunicación. 
 
 
 ####     2.3. Análisis de entrevistas.
@@ -461,10 +478,18 @@ En la entrevista, Bárbara Quezada mencionó su participación en el alquiler de
 
 Nicolas prefiere buscar sus prendas en marcas que ya conoce y ha probado. Aunque rara vez no ha podido encontrar la prenda deseada para un conjunto específico, en esos casos ha tenido que cambiar por completo su idea original de vestimenta. Tiene un gran interés en el mundo de la moda y la vestimenta desde hace años, y considera que su estilo es simple y poco extravagante. Ha mantenido su forma de vestir durante más de diez años sin cambios significativos.
 
+#### Análisis Entrevista 4:
+
+La entrevista con Diego, un estudiante activo en eventos sociales, destaca varios desafíos y oportunidades dentro de la industria de la moda. Primero, revela la dificultad de encontrar ropa que satisfaga gustos específicos en color y ajuste adecuado a las proporciones personales, señalando la necesidad de una mayor personalización en la oferta de moda. Además, su necesidad de adaptar su vestimenta a diferentes contextos sugiere que hay un mercado para prendas más versátiles. Curiosamente, su desconocimiento sobre el impacto del fast fashion resalta una oportunidad educativa significativa para las marcas, que podrían beneficiarse al informar a los consumidores sobre las prácticas sostenibles. Este análisis sugiere que abordar la personalización, la versatilidad y la educación sobre sostenibilidad podría no solo mejorar la satisfacción del consumidor, sino también fomentar prácticas más responsables en la industria.
+
 #### Análisis Entrevista 5:
 
 Sandy, La gerente de marketing de diseño parece tener una perspectiva sofisticada y consciente de la moda. Su interés en vestir elegante y seguir las tendencias actuales sugiere que está bien informada sobre el mundo de la moda. Su disposición a probar moda que tenga un menor impacto ambiental muestra una preocupación por la sostenibilidad, lo cual es cada vez más importante en la industria de la moda. Al considerar la moda como un estilo de vida y una forma de presentarse en diferentes lugares, demuestra una comprensión profunda de cómo la moda puede influir en la percepción de uno mismo y en la forma en que se es percibido por los demás. Esto sugiere que la gerente de marketing de diseño tiene una mentalidad abierta y está dispuesta a adaptarse a nuevas ideas y conceptos en la moda.
 Además, su enfoque en la moda como un estilo de vida refleja una conexión emocional con la ropa y cómo esta puede expresar la identidad y la personalidad. Al ver la moda de esta manera, es probable que la gerente de marketing de diseño tenga una sensibilidad especial hacia la estética y la creatividad en su trabajo. Su actitud receptiva hacia la moda sostenible también sugiere que podría estar interesada en promover valores éticos y responsables en la empresa. En resumen, la gerente de marketing de diseño parece ser una líder consciente de la moda, con una visión que va más allá de lo superficial, y que podría ser una fuente valiosa de inspiración y dirección para la empresa en términos de estilo y valores
+
+#### Análisis Entrevista 6:
+
+ Durante la entrevista, Carolina Zegarra compartió su experiencia en el ámbito del alquiler de ropa, haciendo hincapié en la importancia de la preparación personal y la confianza en sí misma. Resaltó que a lo largo de diferentes transacciones de compra, pudo desarrollar y mejorar sus habilidades de comunicación. Además, expresó su agradecimiento por las plataformas que ofrecen servicios de alquiler de prendas, considerando que estas son de gran utilidad para familiarizarse con el proceso y simplificar la búsqueda de vestimenta.  
 
 
 ### 3. **Needfinding.**
@@ -1655,8 +1680,13 @@ En el marco de Scrum, un Sprint es un periodo breve y definido durante el cual u
 | Elaborar y diseñar una landing page atractiva e informativa para la aplicación Event Wear|     |     |
 
 #####         **2.1.2. Sprint Backlog 1.**
-....
-#####         **2.1.3. Development Evidence for Sprint Review.**
+
+Durante el primer sprint, el equipo planeó iniciar y finalizar la página de inicio, utilizando Trello como herramienta para organizar y asignar tareas desglosadas de las user stories según las habilidades de cada miembro. El principal objetivo del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional. No obstante, debido a limitaciones de tiempo y problemas técnicos, el proceso se retrasó, logrando principalmente finalizar los aspectos visuales de la página.
+
+![image](Imagenes/sprint-1.jpg)
+
+link: [Enlace de trello](https://trello.com/invite/b/2DqFL0ui/ATTIbebdb604d39676d3378ca6a2b3847a0a82CCD4FD/sprint-1)
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
 | <https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage> | Main | e1bb070 | chore: initial commit | chore: initial commit | 10/04/2024 |
@@ -1681,6 +1711,8 @@ En el marco de Scrum, un Sprint es un periodo breve y definido durante el cual u
 |     |     | 5c5e4dc | feat(sign-up): add image to sign up page | feat(sign-up): add image to sign up page | 11/04/2024 |
 |     |     | 99663d2 | feat: Add breadcrumbs to the header | feat: Add breadcrumbs to the header | 11/04/2024 |
 |     |     | 6138b16 | feat: add title "Event Wear" to index.html and sign_in.html | feat: add title "Event Wear" to index.html and sign_in.html | 11/04/2024 |
+
+#####         **2.1.3. Development Evidence for Sprint Review.**
 
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
 ....
