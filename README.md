@@ -1687,6 +1687,19 @@ Durante el primer sprint, el equipo planeó iniciar y finalizar la página de in
 
 link: [Enlace de trello](https://trello.com/invite/b/2DqFL0ui/ATTIbebdb604d39676d3378ca6a2b3847a0a82CCD4FD/sprint-1)
 
+| Sprint 1 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| US01 | Registro de Usuario | US01 | Registro | Implica el diseño e implementación de formularios de registro y la lógica necesaria para almacenar la información del usuario en la base de datos. | 2 horas | Adriano Cruz | En progreso |
+| US19 | Sección “Nosotros” | US19 | Secciones de la Web Browser | Esto puede incluir información sobre el equipo, la empresa, la misión y la visión, entre otros elementos relevantes. | 3 horas | Jair Castillo | Hecho |
+| US18 | Sección “Segmentos” | US18 | Esta sección puede mostrar los diferentes segmentos de clientes o usuarios a los que se dirige la plataforma, junto con información relevante sobre cada segmento. | 4 horas | Jair Castillo | En revisión |
+| US03 | Inicio de sesión | US03 | Inicio de sesión | Implementar la funcionalidad de inicio de sesión para que los usuarios registrados puedan acceder a sus cuentas. | 3 horas | Adriano Cruz | Hecho |
+| US23 | Sección “Footer” | US23 | Secciones de la Web Browser | Se trata de desarrollar la sección del pie de página en la página de inicio. | 2 horas | Jair Castillo | En revisión |
+| US21 | Sección “Contacto” | US21 | Aquí se pueden incluir formularios de contacto, información de contacto, como dirección física, números de teléfono y direcciones de correo electrónico, y quizás un mapa de ubicación. | 2 horas | Jair Castillo | Hecho |
+
+#####         **2.1.3. Development Evidence for Sprint Review.**
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
 | <https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage> | Main | e1bb070 | chore: initial commit | chore: initial commit | 10/04/2024 |
@@ -1711,8 +1724,6 @@ link: [Enlace de trello](https://trello.com/invite/b/2DqFL0ui/ATTIbebdb604d39676
 |     |     | 5c5e4dc | feat(sign-up): add image to sign up page | feat(sign-up): add image to sign up page | 11/04/2024 |
 |     |     | 99663d2 | feat: Add breadcrumbs to the header | feat: Add breadcrumbs to the header | 11/04/2024 |
 |     |     | 6138b16 | feat: add title "Event Wear" to index.html and sign_in.html | feat: add title "Event Wear" to index.html and sign_in.html | 11/04/2024 |
-
-#####         **2.1.3. Development Evidence for Sprint Review.**
 
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
 ....
