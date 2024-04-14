@@ -37,14 +37,26 @@ width=50%"/>
 
 ### Project Report Collaboration Insights
 
-...
+URL del repositorio para el reporte del proyecto: https://github.com/upc-pre-202401-si729-ws51-eventwear
+
+TB1
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma
+para cada integrante del equipo:
+
+| Integrante | Tareas Asignadas |
+| --- | --- |
+|Alexander Castillo   |Descripción de la Startup, Lean UX Problem Statements, As-is Scenario Mapping, To-Be Scenario Mappingm, Searching Systems, Navigation Systems, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review|
+|Christopher More  |Análisis competitivo, Estrategias y tácticas frente a competidores, Diseño de entrevistas, Class Diagrams, Class Dictionary, Database Diagram, Team Collaboration Insights during Spring|
+|Joaquin Cortez  |Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivo, User Stories, Landing Page Wireframe, Landing Page Mock-up, Software Architecture Context Diagram, Software Architecture Components Diagrams|
+|Tony Ramos    |User Task Matrix, Impact Mapping, General Style Guidelines, Web Style Guidelines, Organization Systems, Software Architecture Container Diagrams, Services Documentation Evidence for Sprint Review|
+|Adriano Cruz    |User Personas, User Journey Mapping, Empathy Mapping, Product Backlog, Labeling Systems, SEO Tags and Meta Tags, Software Development Environment Configuration, Source Code Management, Sprint Planning 1, Sprint Backlog 1, Execution Evidence for Sprint Review|
 
 ### Studen Outcome
 
-| Criterio específico | Acciones Realizadas | Conclusiones |
-|---------------------|----------------------|--------------|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Christopher Sebastian More Rondon<br><b>TB1</b><br> ...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Joaquin Antonio Cortez Quezada<br><b>TB1</b><br>...<br><br>Tony Alenxander Ramos Najar<br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Christopher Sebastian More Rondon<br><b>TB1</b><br> ...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Joaquin Antonio Cortez Quezada<br><b>TB1</b><br>...<br><br>Tony Alenxander Ramos Najar<br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+| --- | --- | --- |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Christopher Sebastian More Rondon:<br><br>TB1: Para esta entrega me encargue de hallar a nuestros posibles competidores, así como analizar sus puntos fuertes y débiles. También comuniqué durante la exposición cuales son nuestros segmentos objetivos y los requisitos que nuestra aplicación debe cumplir para satisfacer sus necesidades<br><br>Joaquin Antonio Cortez Quezada<br><br>TB1: <br><br>Tony Alexander Ramos Najar<br><br>TB1:<br><br>Adriano Sebastian Cruz Palomino<br><br>TB1: En esta entrega, identifiqué las necesidades de los usuarios y compartí estos hallazgos con mis compañeros. Así, pudimos discutir y colaborar eficazmente dentro del equipo del proyecto.<br><br>Alexander Jair Castillo Castillo<br><br>TB1:  <br>para esta entrega identifiqué el problema que solucionaremos, el principal segmento objetivo en el que nos enfocaremos. Así mismo, planteé algunas hipótesis, riesgos y soluciones respecto al desarrollo de esta. Tomé desiciones de diseño para la landing page. |     |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Christopher Sebastian More Rondon:<br><br>TB1: En el documento rellené el cuadro de competidores, mostrando sus puntos débiles y fuertes al igual que los nuestros. También me encargué de describir las herramientas utilizadas.<br><br>Joaquin Antonio Cortez Quezada<br><br>TB1: <br><br>Tony Alexander Ramos Najar<br><br>TB1:<br><br>Adriano Sebastian Cruz Palomino<br><br>TB1: En este informe, he realizado un análisis profundo de las necesidades de nuestros usuarios. Además, he desarrollado empathy map y el user journey map, herramientas que me han permitido comprender de manera más efectiva las experiencias y expectativas de nuestros usuarios.<br><br>Alexander Jair Castillo Castillo<br><br>TB1:  <br>Al identificar distintos aspectos base de nuestra start up tomé en cuenta las necesidades y limitaciones de nuestros usuarios, tanto para el lean ux canva como para la interfaz de la landing page. |     |
 
 ## Contenido
 
@@ -1231,8 +1243,65 @@ Estas características y elementos visuales trabajarán juntos para crear una ex
 
 
 ### 2. **Information Architecture.**
-####     2.1. Organization Systems.
-....
+1. Página Principal
+- Header
+    - Logo de EventWear (Inicio)
+    - Barra de búsqueda
+    - Navegación principal:
+        - Explorar Categorías
+        - Cómo Funciona
+        - Nuestra Misión (Sostenibilidad)
+    - Botones de acción:
+        - Iniciar sesión/Registrarse
+    - Hero Section
+        - Imagen destacada con llamada a la acción (CTA) para explorar el catálogo o unirse a la comunidad
+    - Secciones de Información
+        - Ventajas de alquilar vs comprar
+        - Testimonios de usuarios
+        - Estadísticas de impacto ambiental y ahorro
+2. Explorar Categorías
+- Categorías de prendas y accesorios (Vestidos, Trajes, Accesorios, etc.)
+- Filtros avanzados (Evento, Talla, Color, Precio, etc.)
+- Listados de productos:
+    - Imágenes de alta calidad
+    - Breve descripción
+    - Precio de alquiler
+    - Valoraciones y reseñas
+3. Página de Producto
+- Imágenes detalladas del producto
+- Descripción completa (talla, material, instrucciones de cuidado)
+- Disponibilidad y opciones de fecha de alquiler
+- Precio y opciones de duración del alquiler
+- Botón de alquilar ahora
+- Reseñas de usuarios anteriores
+- Sugerencias de productos similares
+4. Cómo Funciona
+- Paso a paso del proceso de alquiler:
+    - Selección del artículo
+    - Reservación de fechas
+    - Proceso de pago
+    - Recibo y devolución del artículo
+- FAQ (Preguntas Frecuentes)
+5. Nuestra Misión (Sostenibilidad)
+- Información sobre las prácticas sostenibles de la moda
+- Impacto de la reutilización y el alquiler de prendas
+- Colaboraciones y esfuerzos comunitarios
+6. Perfil de Usuario
+- Gestión de cuenta (Datos personales, Preferencias)
+- Historial de alquileres
+- Lista de deseos
+- Notificaciones y ajustes
+7. Administración y Backend
+- Dashboard de administración para gestionar:
+    - Productos (Agregar, editar, eliminar)
+    - Usuarios (Ver, modificar estados, analizar comportamientos)
+    - Pedidos y logística (Seguimiento, gestión de devoluciones)
+    - Análisis e informes (Insights de uso, métricas financieras)
+8. Ayuda/Soporte
+- Contacto con soporte al cliente (Chat en vivo, Email)
+- Centro de ayuda (Artículos de ayuda, guías)
+- Política de privacidad y términos de uso
+
 ####     2.2. Labeling Systems.
 
 
@@ -1767,13 +1836,44 @@ link: [Enlace de trello](https://trello.com/invite/b/2DqFL0ui/ATTIbebdb604d39676
 |     |     | 6138b16 | feat: add title "Event Wear" to index.html and sign_in.html | feat: add title "Event Wear" to index.html and sign_in.html | 11/04/2024 |
 
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
-....
+
+Para el sprint 1 desarrollamos el acceptance test en gherkin de las user stories más importantes que se implementaron y algunas que vamos a implementar en el sprint 2.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| <https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test> | main | 2abef1d | feat: added US02 "Verificación de correo electrónico" | feat: added US02 "Verificación de correo electrónico" | 13/04/2024 |
+|     |     | 7a974bd | feat: added US07 "Exploración de prendas recomendadas" | feat: added US07 "Exploración de prendas recomendadas" | 13/04/2024 |
+|     |     | cd44baa | feat: added US09 "Guardar prendas en favoritos" | feat: added US09 "Guardar prendas en favoritos” | 13/04/2024 |
+|     |     | 12eaffd | feat: added US13 "Visualizar todas mis publicaciones" | feat: added US13 "Visualizar todas mis publicaciones" | 13/04/2024 |
+|     |     | 1777c13 | feat: added US19 "Sección "Nosotros" | feat: added US19 "Sección "Nosotros" | 13/04/2024 |
+|     |     | f601bc7 | feat: added US21 "Sección "Contacto"" | feat: added US21 "Sección "Contacto"" | 13/04/2024 |
+
 #####         **2.1.5. Execution Evidence for Sprint Review.**
-Para este primer sprint no fue contemplada la evidencia de documentación de los servicios. 
+
+Durante el primer sprint, se logró un avance parcial en la implementación de la landing page, que ahora presenta diversas secciones donde los usuarios pueden acceder a información importante sobre el producto y la startup. A continuación, se presentan algunas evidencias de este progreso:
+
+1. Sección home
+![image](Imagenes/seccion-home.jpg)
+2. Sección Segmentos
+![image](Imagenes/seccion-segmentos.jpg)
+3. Sección Contactanos
+![image](Imagenes/seccion-contactanos.jpg)
+4. Sección Iniciar Sesión
+![image](Imagenes/seccion-iniciar-sesion.jpg)
+5. Sección Registrarse
+![image](Imagenes/seccion-registrarse.jpg)
+
+
 #####         **2.1.6. Services Documentation Evidence for Sprint Review.**
-....
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios. 
 #####         **2.1.7. Software Deployment Evidence for Sprint Review.**
-....
+
+![image](Imagenes/software-deploy-evidence-for-sprint-review-image1.jpg)
+
+![image](Imagenes/seccion-home.jpg)
+
+![image](Imagenes/seccion-segmentos.jpg)
+
 #####         **2.1.8. Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
 | --- | --- |
