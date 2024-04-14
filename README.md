@@ -1410,7 +1410,21 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 ####     4.3. Web Applications Mock-ups.
 ....
 ####     4.4. Web Applications User Flow Diagrams.
-....
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/81d07810-276e-46bf-a8bd-515ffa62ec90)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/f8d0cf4d-4e52-4305-b849-dd01a6201843)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/6d1553ac-8abc-44ae-b3af-1879d6b8bc7f)
+
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/954a5948-ac6c-4299-954a-a0c158186378)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/2f7e0262-f1e6-40b5-ba9b-206abe34760e)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/13c808d7-d604-4d2b-8c80-8720f44646b9)
+
+
+<https://miro.com/welcomeonboard/NnFZNldxT25tSVVKR0p5VUtPanN0OEhUMjNXTm5xTUpTQ0szbWY0YUc4Nk5kODR2YkVUVWJCcktGTzlzQWJxTHwzNDU4NzY0NTY4MjYxNDQ3NDA5fDI=?share_link_id=986053118910>
 ### 5. **Web Applications Prototyping.**
 
 Aquí se presenta el prototipo de nuestra aplicación web para escritorio, una herramienta diseñada para brindar una experiencia excepcional en moda consciente. Descubre cómo nuestra plataforma te permite acceder fácilmente a prendas y accesorios sostenibles, contribuyendo así a un estilo de vida más ético y respetuoso con el medio ambiente. Sumérgete en esta demostración y explora las diversas funcionalidades que hemos desarrollado para ofrecerte una experiencia de usuario única.
