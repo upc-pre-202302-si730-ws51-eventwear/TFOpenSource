@@ -1431,9 +1431,50 @@ Los principales sistemas de navegación en Event Wear son los menús superior e 
 <br>
 
 ####     4.2. Web Applications Wireflow Diagrams.
-....
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/f7438146-0963-49e9-9825-3aeca5dd90d1)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/74e53cca-850f-46fe-8a85-86d79343ea1e)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/97b8f3c2-d362-4912-80e6-589b07c03fbf)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/8a7c6c70-5b16-4973-beee-e52ac154a4a3)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/cbca343f-14cd-4d8c-8011-57282ac595a2)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/40f69e09-9f11-4bf0-bcf7-b872ecc2f239)
+
+WEB:
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/b1d74c33-7a08-49a3-abf5-59861a6605dc)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/33a5f157-175c-4b1d-ac52-73456fba8232)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/14610725-8b4d-4d89-aaef-482fb19e7566)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/23ecd8a7-0876-476e-af1c-ee17c0bac3f7)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/ffd4263c-4ab1-4877-838d-aeb7f11da1b0)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/fcd65fd1-523c-479e-8b44-e33cc7021c81)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/b0f307b1-add5-4a4f-9b5a-f1fb4c70b4d1)
+
+
 ####     4.3. Web Applications Mock-ups.
-....
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/5f2aa6da-e395-438a-a340-b298468a6a64)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/2cecae2a-7729-4572-a8ab-30a8a1b58a4a)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/425c3878-a3da-4d4b-8e3c-c0f2e299640c)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/7bcaa1bc-4498-48e7-9af6-7725da556e45)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/5470ce5a-2ca7-418e-b5fe-ba01c1bab765)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/69a8bc17-9730-42ee-9f18-723ea3e5df51)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/55c8cf74-efa4-40b0-85e3-86367d443ff3)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/a0b22757-c974-4ccf-8c1a-b772e008cd0d)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/5b9b7440-2f9b-4b80-93b5-24266d8d4dab)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/2241e3a1-c696-4ee0-a7f8-80e2bd64a96d)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/cab02ac4-ae9b-4c5c-9941-9365fc9fffcb)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/28fe53ea-7863-430b-bc65-2235215f06fe)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/bd0d1af7-86c9-448a-898c-a8cb065c5206)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/b79b27c0-9851-4a90-abf7-0623d5710784)
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/3adc7270-19dd-4f31-9648-a2f73adf344a)
+
+![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/33228ba3-22a5-4b08-a286-c569d12d805c)
+
 ####     4.4. Web Applications User Flow Diagrams.
 ![image](https://github.com/upc-pre-202401-si729-ws51-eventwear/TFOpenSource/assets/142842509/81d07810-276e-46bf-a8bd-515ffa62ec90)
 
