@@ -1108,7 +1108,7 @@ Entonces el footer debería incluir enlaces a otras secciones importantes del si
 | EP05: Publicación de prendas          | Como usuario, quiero tener la opción de publicar mis prendas.                                                  |
 | EP06: Servicio de soporte al cliente  | Como usuario, quiero acceso a un servicio de soporte al cliente eficaz.                                       |
 | EP07: Visita al landing page          | Como usuario, quiero visitar el landing page de la página web.                                                 |
-| EP08: Historias técnicas del RESTful API | FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin. |
+
 
 
 ### 3. **Impact Mapping.**
@@ -1892,7 +1892,25 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 
 ## Bibliografía
-....
+
+American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). https://psycnet.apa.org/doi/10.1037/0000165-000
+
+
+Bala, D. (24 de mayo de 2021). Alquiler de ropa: Rentar tu propio clóset es la nueva tendencia. Vogue. https://www.vogue.mx/sustentabilidad/articulo/alquiler-de-ropa-de-tu-closet-todo-sobre-la-nueva-tendencia-de-moda
+ 
+
+El Ágora. (18 de agosto de 2021). La moda rápida tiñe de contaminación el agua de África. https://www.elagoradiario.com/agua/contaminacion-agua-rios-africa-industria-textil-moda-rapida/
+
+
+Gomez, A. y Fuenmayor, O. (5 de febrero de 2020). La insostenible sostenibilidad del fast-fashion. Seampedia. http://mitimitiestudio.com/20/seamp/la-insostenible-sostenibilidad-del-fast-fashion/
+
+
+Greenpeace. (22 de abril de 2022). Las exportaciones ropa usada terminan en montañas de basura, contaminando el aire y los ríos en África. https://es.greenpeace.org/es/sala-de-prensa/comunicados/las-exportaciones-ropa-usada-terminan-en-montanas-de-basura-contaminando-el-aire-y-los-rios-en-africa/
+ 
+
+Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental de estar a la moda. https://news.un.org/es/story/2019/04/1454161
+
+
 
 
 ## Anexos
