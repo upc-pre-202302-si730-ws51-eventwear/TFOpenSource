@@ -1819,7 +1819,7 @@ link: [Enlace de trello](https://trello.com/invite/b/2DqFL0ui/ATTIbebdb604d39676
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
-| <https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage> | Main | e1bb070 | chore: initial commit | chore: initial commit | 10/04/2024 |
+| https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage | Main | e1bb070 | chore: initial commit | chore: initial commit | 10/04/2024 |
 |     |     | 1c8dc6e | index.html | index.html | 10/04/2024 |
 |     |     | 62b5788 | Update styles.css | Update styles.css | 11/04/2024 |
 |     |     | 4b0e3d9 | Update index.html | Update index.html | 11/04/2024 |
@@ -1848,7 +1848,7 @@ Para el sprint 1 desarrollamos el acceptance test en gherkin de las user stories
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
-| <https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test> | main | 2abef1d | feat: added US02 "Verificación de correo electrónico" | feat: added US02 "Verificación de correo electrónico" | 13/04/2024 |
+| https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test | main | 2abef1d | feat: added US02 "Verificación de correo electrónico" | feat: added US02 "Verificación de correo electrónico" | 13/04/2024 |
 |     |     | 7a974bd | feat: added US07 "Exploración de prendas recomendadas" | feat: added US07 "Exploración de prendas recomendadas" | 13/04/2024 |
 |     |     | cd44baa | feat: added US09 "Guardar prendas en favoritos" | feat: added US09 "Guardar prendas en favoritos” | 13/04/2024 |
 |     |     | 12eaffd | feat: added US13 "Visualizar todas mis publicaciones" | feat: added US13 "Visualizar todas mis publicaciones" | 13/04/2024 |
@@ -1938,4 +1938,7 @@ Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental 
 
 
 ## Anexos
-....
+
+Organización del proyect: https://github.com/upc-pre-202401-si729-ws51-eventwear
+
+Link del video: https://drive.google.com/file/d/1u6S1d02ysTmwqHBC3NfMHfnmvZ3iORqn/view
