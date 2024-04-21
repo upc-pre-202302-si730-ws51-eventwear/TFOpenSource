@@ -13,7 +13,7 @@ width=50%"/>
 
 <h5 style="text-align: center"> Docente: Juan Antonio Flores Moroco </h5>
 
-<h5 style="text-align: center"> Startup: ... </h5>
+<h5 style="text-align: center"> Startup: Event Wear </h5>
 
 <h5 style="text-align: center"> Producto: Event Wear </h5>
 
