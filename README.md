@@ -1895,7 +1895,24 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 ![image](Imagenes/Team-Collaboration-Insight-Sprint1-Contributors.jpg)
 
 ## Conclusiones
-....
+
+En el desarrollo de nuestro proyecto "Event Wear", hemos abordado de manera integral los desafíos del consumo desmedido en eventos especiales, centrándonos en ofrecer una alternativa sostenible al fast fashion. A través del análisis de los Problem Statements establecidos, así como de los Hypotheses Statements y criterios de éxito definidos en el proceso de Lean UX, hemos evaluado el impacto de nuestra plataforma en relación con los objetivos planteados.
+
+Resultados y Validaciones
+
+Observamos que los usuarios responden positivamente a la propuesta de Event Wear, reconociendo la necesidad de abordar el ciclo insostenible de compra y descarte de prendas para eventos especiales. La validación de nuestras hipótesis ha demostrado que existe un interés genuino en adoptar prácticas de consumo más conscientes y sostenibles. Además, hemos constatado que la comunidad se involucra activamente en la plataforma, lo que respalda nuestra visión de promover la reutilización y el intercambio de prendas.
+
+Recomendaciones y Roadmap
+
+Para continuar avanzando en nuestro objetivo de transformar la industria de la moda hacia prácticas más sostenibles, recomendamos enfocarnos en las siguientes áreas:
+
+Ampliación de la oferta: Explorar la diversificación de prendas y estilos disponibles en la plataforma para satisfacer las necesidades de una gama más amplia de usuarios y eventos.
+Fortalecimiento de la comunidad: Implementar estrategias para fomentar la participación y la interacción entre los usuarios, creando un sentido de pertenencia y compromiso con la causa de la moda sostenible.
+Educación y concientización: Desarrollar recursos y campañas educativas para informar a los usuarios sobre los impactos del consumo de moda rápida y las ventajas de optar por el alquiler de prendas.
+Expansión geográfica: Explorar oportunidades para expandir la presencia de Event Wear a nuevos mercados, aprovechando el creciente interés global en la sostenibilidad y la economía compartida.
+
+En conjunto, estas recomendaciones nos permitirán seguir avanzando en nuestro compromiso de promover un enfoque más consciente y colaborativo hacia la moda, al tiempo que consolidamos el impacto positivo de Event Wear en el medio ambiente y la sociedad.
+
 
 
 ## Bibliografía
