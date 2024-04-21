@@ -34,6 +34,13 @@ width=50%"/>
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       |  10/04/2024| Cruz Palomino, Adriano Sebastian | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.1       |  10/04/2024| Cruz Palomino, Adriano Sebastian | Agrego la parte de User Persona Empathy Map y User Journey Mapping | Completado  |
+| 1.2       |  11/04/2024| Ramos Najar, Tony Alenxander | Descripción del startup, Lean UX Canva | Completado  |
+| 1.3       |  11/04/2024| Ramos Najar, Tony Alenxander | Analisis de las entrevistas | Completado  |
+| 1.4       |  13/04/2024| Castillo Castillo, Alexander Jair | Agrego Web Applications Wireflow Diagrams | Completado  |
+| 1.5       |  14/04/2024| Cortez Quezada, Joaquin Antonio | Cambio de Student Outcome  | Completado  |
+| 1.6       |  14/04/2024| More Rondon, Christopher Sebastian | Agrego Analisis competitivo  | Completado  |
+
 
 ### Project Report Collaboration Insights
 
