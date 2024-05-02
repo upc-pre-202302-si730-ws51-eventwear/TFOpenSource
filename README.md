@@ -1894,6 +1894,36 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
 
 ![image](Imagenes/Team-Collaboration-Insight-Sprint1-Contributors.jpg)
 
+####    5.2.2. Sprint 2
+#####         **5.2.2.1. Sprint Planning 2.**
+| Sprint 2                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                         |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       |
+| Date                             | 28/04/2024                                                                                                                                                           |
+| Time                             | 22:00 horas (GMT-5)                                                                                                                                                  |
+| Location                         | Reunión realizada mediante Google Meet                                                                                                                               |
+| Prepared By                      | Cortez Quezada, Joaquin Antonio	                                                                                                                                     |
+| PAttendees (to planning meeting) | <li>Cruz Palomino, Adriano Sebastian</li>  <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon, Christopher Sebastian </li> <li>Castillo Castillo, Alexander Jair </li> <li>Ramos Najar Tony Alexander </li> |
+| Sprint n - Review                |
+| Resumen                          | Se creará la aplicación web en su totalidad haciendo uso del framework Angular y archivos json                                                                       |
+| Sprint n -1 Retrospective        |
+| Resumen                          | Se desarrollo la aplicacion web casi en su totalidad mediante html, css, js y Angular .                                                                              |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Velocity                | 20 points                                                                                                                                                            |
+| Sum of Story Points              | 20 points                                                                                                                                                            |
+
+#####         **5.2.1.2. Sprint Backlog 1.**
+| id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- |---------------------------| --- |---------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------| ------------- |----------------------------------------|
+| GW01 | Apartado Home             | G01 | Home page                       | Desarrollo e implementación de la pantalla Home con sus respectivos componentes.                                    | 2                  |   | -                                      |
+| GW02 | Apartado Lista de envios  | G02 | Bounded Context Lista de envios | Desarrollo e implementación de de la Lista de envios con sus respectivos componentes, modelos, servicios y paginas. | 3                  | Joaquin Antonio | -                                      |
+| GW03 | Apartado Categorias       | G03 | Bounded Context Categorias      | Desarrollo e implementación de de la Categorias con sus respectivos componentes, modelos, servicios y paginas.      | 3                  |  Tony Alexander  | -                                      |
+| GW04 | Apartado Alquiler         | G04 | Bounded Context Alquiler        | Desarrollo e implementación de de la Alquiler con sus respectivos componentes, modelos, servicios y paginas.        | 4                  |  Jair Castillo  | -                                      |
+| GW05 | Apartado Transacciones    | G05 | Bounded Context Transacciones   | Desarrollo e implementación de de la Transacciones con sus respectivos componentes, modelos, servicios y paginas.   | 3                  |  Christopher Sebastian  | -                                      |
+| GW06 | Apartado del usuario      | G06 | Bounded Context Usuario         | Desarrollo e implementación de de la Usuario con sus respectivos componentes, modelos, servicios y paginas.             | 2                  | Jair Castillo | Done                                   |
+| GW07 | Apartado de publicaciones | G07 | Bounded Context Publicaciones   | Desarrollo e implementación de de la Publicaciones con sus respectivos componentes, modelos, servicios y paginas.             | 3                  | Adriano Cruz | -                                      |
+
+
 ## Conclusiones
 
 En el desarrollo de nuestro proyecto "Event Wear", hemos abordado de manera integral los desafíos del consumo desmedido en eventos especiales, centrándonos en ofrecer una alternativa sostenible al fast fashion. A través del análisis de los Problem Statements establecidos, así como de los Hypotheses Statements y criterios de éxito definidos en el proceso de Lean UX, hemos evaluado el impacto de nuestra plataforma en relación con los objetivos planteados.
